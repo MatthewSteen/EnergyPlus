@@ -1,5 +1,5 @@
+import csv
 import os
-import pandas as pd
 from eppy.modeleditor import IDF
 
 
@@ -21,11 +21,12 @@ def update_solar_collectors(csv_path, idd_dir):
 
     counter = 0
 
-    df = pd.read_csv(csv_path)
+    csv_file = open(csv_path, 'rb')
+    reader = csv.reader(csv_file)
 
-    for idx, row in df.iterrows():
+    for idx, row in enumerate(reader):
 
-        if idx <= 1 or row[2] == 'Tubular':
+        if idx <= 2 or row[2] == 'Tubular':
 
             next
 
