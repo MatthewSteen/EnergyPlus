@@ -1,0 +1,3388 @@
+!- Windows Line endings 
+
+VERSION,
+    8.8;                      !- Version Identifier
+
+SOLARCOLLECTORPERFORMANCE:FLATPLATE,
+    ACR Solar International Skyline 20-01,    !- Name
+    1.87,                     !- Gross Area
+    Water,                    !- Test Fluid
+    3.16e-05,                 !- Test Flow Rate
+    Inlet,                    !- Test Correlation Type
+    0.605,                    !- Coefficient 1 of Efficiency Equation
+    3.84,                     !- Coefficient 2 of Efficiency Equation
+    0,                        !- Coefficient 3 of Efficiency Equation
+    0.19,                     !- Coefficient 2 of Incident Angle Modifier
+    0;                        !- Coefficient 3 of Incident Angle Modifier
+
+SOLARCOLLECTORPERFORMANCE:FLATPLATE,
+    ACR Solar International Skyline 10-01,    !- Name
+    0.93,                     !- Gross Area
+    Water,                    !- Test Fluid
+    3.16e-05,                 !- Test Flow Rate
+    Inlet,                    !- Test Correlation Type
+    0.603,                    !- Coefficient 1 of Efficiency Equation
+    3.87,                     !- Coefficient 2 of Efficiency Equation
+    0,                        !- Coefficient 3 of Efficiency Equation
+    0.19,                     !- Coefficient 2 of Incident Angle Modifier
+    0;                        !- Coefficient 3 of Incident Angle Modifier
+
+SOLARCOLLECTORPERFORMANCE:FLATPLATE,
+    Alternate Energy Technologies Alternate Energy AE-21,    !- Name
+    1.93,                     !- Gross Area
+    Water,                    !- Test Fluid
+    3.88e-05,                 !- Test Flow Rate
+    Inlet,                    !- Test Correlation Type
+    0.691,                    !- Coefficient 1 of Efficiency Equation
+    3.4,                      !- Coefficient 2 of Efficiency Equation
+    0,                        !- Coefficient 3 of Efficiency Equation
+    0.19,                     !- Coefficient 2 of Incident Angle Modifier
+    0;                        !- Coefficient 3 of Incident Angle Modifier
+
+SOLARCOLLECTORPERFORMANCE:FLATPLATE,
+    Alternate Energy Technologies Alternate Energy AE-24,    !- Name
+    2.21,                     !- Gross Area
+    Water,                    !- Test Fluid
+    3.88e-05,                 !- Test Flow Rate
+    Inlet,                    !- Test Correlation Type
+    0.691,                    !- Coefficient 1 of Efficiency Equation
+    3.4,                      !- Coefficient 2 of Efficiency Equation
+    0,                        !- Coefficient 3 of Efficiency Equation
+    0.19,                     !- Coefficient 2 of Incident Angle Modifier
+    0;                        !- Coefficient 3 of Incident Angle Modifier
+
+SOLARCOLLECTORPERFORMANCE:FLATPLATE,
+    Alternate Energy Technologies Alternate Energy AE-26,    !- Name
+    2.35,                     !- Gross Area
+    Water,                    !- Test Fluid
+    3.88e-05,                 !- Test Flow Rate
+    Inlet,                    !- Test Correlation Type
+    0.691,                    !- Coefficient 1 of Efficiency Equation
+    3.4,                      !- Coefficient 2 of Efficiency Equation
+    0,                        !- Coefficient 3 of Efficiency Equation
+    0.19,                     !- Coefficient 2 of Incident Angle Modifier
+    0;                        !- Coefficient 3 of Incident Angle Modifier
+
+SOLARCOLLECTORPERFORMANCE:FLATPLATE,
+    Alternate Energy Technologies Alternate Energy AE-28,    !- Name
+    2.6,                      !- Gross Area
+    Water,                    !- Test Fluid
+    3.88e-05,                 !- Test Flow Rate
+    Inlet,                    !- Test Correlation Type
+    0.691,                    !- Coefficient 1 of Efficiency Equation
+    3.4,                      !- Coefficient 2 of Efficiency Equation
+    0,                        !- Coefficient 3 of Efficiency Equation
+    0.19,                     !- Coefficient 2 of Incident Angle Modifier
+    0;                        !- Coefficient 3 of Incident Angle Modifier
+
+SOLARCOLLECTORPERFORMANCE:FLATPLATE,
+    Alternate Energy Technologies Alternate Energy AE-32,    !- Name
+    2.96,                     !- Gross Area
+    Water,                    !- Test Fluid
+    3.88e-05,                 !- Test Flow Rate
+    Inlet,                    !- Test Correlation Type
+    0.691,                    !- Coefficient 1 of Efficiency Equation
+    3.4,                      !- Coefficient 2 of Efficiency Equation
+    0,                        !- Coefficient 3 of Efficiency Equation
+    0.19,                     !- Coefficient 2 of Incident Angle Modifier
+    0;                        !- Coefficient 3 of Incident Angle Modifier
+
+SOLARCOLLECTORPERFORMANCE:FLATPLATE,
+    Alternate Energy Technologies Alternate Energy AE-40,    !- Name
+    3.7,                      !- Gross Area
+    Water,                    !- Test Fluid
+    3.88e-05,                 !- Test Flow Rate
+    Inlet,                    !- Test Correlation Type
+    0.691,                    !- Coefficient 1 of Efficiency Equation
+    3.4,                      !- Coefficient 2 of Efficiency Equation
+    0,                        !- Coefficient 3 of Efficiency Equation
+    0.19,                     !- Coefficient 2 of Incident Angle Modifier
+    0;                        !- Coefficient 3 of Incident Angle Modifier
+
+SOLARCOLLECTORPERFORMANCE:FLATPLATE,
+    Alternate Energy Technologies Alternate Energy AE-56,    !- Name
+    5.18,                     !- Gross Area
+    Water,                    !- Test Fluid
+    3.88e-05,                 !- Test Flow Rate
+    Inlet,                    !- Test Correlation Type
+    0.691,                    !- Coefficient 1 of Efficiency Equation
+    3.4,                      !- Coefficient 2 of Efficiency Equation
+    0,                        !- Coefficient 3 of Efficiency Equation
+    0.19,                     !- Coefficient 2 of Incident Angle Modifier
+    0;                        !- Coefficient 3 of Incident Angle Modifier
+
+SOLARCOLLECTORPERFORMANCE:FLATPLATE,
+    Alternate Energy Technologies Alternate Energy AE-50,    !- Name
+    4.66,                     !- Gross Area
+    Water,                    !- Test Fluid
+    3.88e-05,                 !- Test Flow Rate
+    Inlet,                    !- Test Correlation Type
+    0.691,                    !- Coefficient 1 of Efficiency Equation
+    3.4,                      !- Coefficient 2 of Efficiency Equation
+    0,                        !- Coefficient 3 of Efficiency Equation
+    0.19,                     !- Coefficient 2 of Incident Angle Modifier
+    0;                        !- Coefficient 3 of Incident Angle Modifier
+
+SOLARCOLLECTORPERFORMANCE:FLATPLATE,
+    Alternate Energy Technologies Morning Star MSC-40,    !- Name
+    3.92,                     !- Gross Area
+    Water,                    !- Test Fluid
+    3.88e-05,                 !- Test Flow Rate
+    Inlet,                    !- Test Correlation Type
+    0.691,                    !- Coefficient 1 of Efficiency Equation
+    3.4,                      !- Coefficient 2 of Efficiency Equation
+    0,                        !- Coefficient 3 of Efficiency Equation
+    0.19,                     !- Coefficient 2 of Incident Angle Modifier
+    0;                        !- Coefficient 3 of Incident Angle Modifier
+
+SOLARCOLLECTORPERFORMANCE:FLATPLATE,
+    Alternate Energy Technologies Morning Star MSC-24,    !- Name
+    2.28,                     !- Gross Area
+    Water,                    !- Test Fluid
+    3.88e-05,                 !- Test Flow Rate
+    Inlet,                    !- Test Correlation Type
+    0.691,                    !- Coefficient 1 of Efficiency Equation
+    3.4,                      !- Coefficient 2 of Efficiency Equation
+    0,                        !- Coefficient 3 of Efficiency Equation
+    0.19,                     !- Coefficient 2 of Incident Angle Modifier
+    0;                        !- Coefficient 3 of Incident Angle Modifier
+
+SOLARCOLLECTORPERFORMANCE:FLATPLATE,
+    Alternate Energy Technologies Morning Star MSC-26,    !- Name
+    2.42,                     !- Gross Area
+    Water,                    !- Test Fluid
+    3.88e-05,                 !- Test Flow Rate
+    Inlet,                    !- Test Correlation Type
+    0.691,                    !- Coefficient 1 of Efficiency Equation
+    3.4,                      !- Coefficient 2 of Efficiency Equation
+    0,                        !- Coefficient 3 of Efficiency Equation
+    0.19,                     !- Coefficient 2 of Incident Angle Modifier
+    0;                        !- Coefficient 3 of Incident Angle Modifier
+
+SOLARCOLLECTORPERFORMANCE:FLATPLATE,
+    Alternate Energy Technologies Morning Star MSC-21,    !- Name
+    2,                        !- Gross Area
+    Water,                    !- Test Fluid
+    3.88e-05,                 !- Test Flow Rate
+    Inlet,                    !- Test Correlation Type
+    0.691,                    !- Coefficient 1 of Efficiency Equation
+    3.4,                      !- Coefficient 2 of Efficiency Equation
+    0,                        !- Coefficient 3 of Efficiency Equation
+    0.19,                     !- Coefficient 2 of Incident Angle Modifier
+    0;                        !- Coefficient 3 of Incident Angle Modifier
+
+SOLARCOLLECTORPERFORMANCE:FLATPLATE,
+    Alternate Energy Technologies Morning Star MSC-32,    !- Name
+    3.03,                     !- Gross Area
+    Water,                    !- Test Fluid
+    3.88e-05,                 !- Test Flow Rate
+    Inlet,                    !- Test Correlation Type
+    0.691,                    !- Coefficient 1 of Efficiency Equation
+    3.4,                      !- Coefficient 2 of Efficiency Equation
+    0,                        !- Coefficient 3 of Efficiency Equation
+    0.19,                     !- Coefficient 2 of Incident Angle Modifier
+    0;                        !- Coefficient 3 of Incident Angle Modifier
+
+SOLARCOLLECTORPERFORMANCE:FLATPLATE,
+    Alternate Energy Technologies Morning Star MSC-28,    !- Name
+    2.66,                     !- Gross Area
+    Water,                    !- Test Fluid
+    3.88e-05,                 !- Test Flow Rate
+    Inlet,                    !- Test Correlation Type
+    0.691,                    !- Coefficient 1 of Efficiency Equation
+    3.4,                      !- Coefficient 2 of Efficiency Equation
+    0,                        !- Coefficient 3 of Efficiency Equation
+    0.19,                     !- Coefficient 2 of Incident Angle Modifier
+    0;                        !- Coefficient 3 of Incident Angle Modifier
+
+SOLARCOLLECTORPERFORMANCE:FLATPLATE,
+    Alternate Energy Technologies Starfire ST-21E,    !- Name
+    1.97,                     !- Gross Area
+    Water,                    !- Test Fluid
+    3.85e-05,                 !- Test Flow Rate
+    Inlet,                    !- Test Correlation Type
+    0.665,                    !- Coefficient 1 of Efficiency Equation
+    4.72,                     !- Coefficient 2 of Efficiency Equation
+    0,                        !- Coefficient 3 of Efficiency Equation
+    0.05,                     !- Coefficient 2 of Incident Angle Modifier
+    0;                        !- Coefficient 3 of Incident Angle Modifier
+
+SOLARCOLLECTORPERFORMANCE:FLATPLATE,
+    Alternate Energy Technologies Starfire ST-40E,    !- Name
+    3.58,                     !- Gross Area
+    Water,                    !- Test Fluid
+    3.85e-05,                 !- Test Flow Rate
+    Inlet,                    !- Test Correlation Type
+    0.665,                    !- Coefficient 1 of Efficiency Equation
+    4.72,                     !- Coefficient 2 of Efficiency Equation
+    0,                        !- Coefficient 3 of Efficiency Equation
+    0.05,                     !- Coefficient 2 of Incident Angle Modifier
+    0;                        !- Coefficient 3 of Incident Angle Modifier
+
+SOLARCOLLECTORPERFORMANCE:FLATPLATE,
+    Alternate Energy Technologies American Energy AE-21E,    !- Name
+    1.93,                     !- Gross Area
+    Water,                    !- Test Fluid
+    3.85e-05,                 !- Test Flow Rate
+    Inlet,                    !- Test Correlation Type
+    0.638,                    !- Coefficient 1 of Efficiency Equation
+    4.26,                     !- Coefficient 2 of Efficiency Equation
+    0,                        !- Coefficient 3 of Efficiency Equation
+    -0.02,                    !- Coefficient 2 of Incident Angle Modifier
+    0;                        !- Coefficient 3 of Incident Angle Modifier
+
+SOLARCOLLECTORPERFORMANCE:FLATPLATE,
+    Alternate Energy Technologies American Energy AE-24E,    !- Name
+    2.21,                     !- Gross Area
+    Water,                    !- Test Fluid
+    3.85e-05,                 !- Test Flow Rate
+    Inlet,                    !- Test Correlation Type
+    0.638,                    !- Coefficient 1 of Efficiency Equation
+    4.26,                     !- Coefficient 2 of Efficiency Equation
+    0,                        !- Coefficient 3 of Efficiency Equation
+    -0.02,                    !- Coefficient 2 of Incident Angle Modifier
+    0;                        !- Coefficient 3 of Incident Angle Modifier
+
+SOLARCOLLECTORPERFORMANCE:FLATPLATE,
+    Alternate Energy Technologies American Energy AE-40E,    !- Name
+    3.7,                      !- Gross Area
+    Water,                    !- Test Fluid
+    3.85e-05,                 !- Test Flow Rate
+    Inlet,                    !- Test Correlation Type
+    0.638,                    !- Coefficient 1 of Efficiency Equation
+    4.26,                     !- Coefficient 2 of Efficiency Equation
+    0,                        !- Coefficient 3 of Efficiency Equation
+    -0.02,                    !- Coefficient 2 of Incident Angle Modifier
+    0;                        !- Coefficient 3 of Incident Angle Modifier
+
+SOLARCOLLECTORPERFORMANCE:FLATPLATE,
+    Alternate Energy Technologies Morning Star MSC-21E,    !- Name
+    2,                        !- Gross Area
+    Water,                    !- Test Fluid
+    3.85e-05,                 !- Test Flow Rate
+    Inlet,                    !- Test Correlation Type
+    0.638,                    !- Coefficient 1 of Efficiency Equation
+    4.26,                     !- Coefficient 2 of Efficiency Equation
+    0,                        !- Coefficient 3 of Efficiency Equation
+    -0.02,                    !- Coefficient 2 of Incident Angle Modifier
+    0;                        !- Coefficient 3 of Incident Angle Modifier
+
+SOLARCOLLECTORPERFORMANCE:FLATPLATE,
+    Alternate Energy Technologies Morning Star MSC-28E,    !- Name
+    2.65,                     !- Gross Area
+    Water,                    !- Test Fluid
+    3.85e-05,                 !- Test Flow Rate
+    Inlet,                    !- Test Correlation Type
+    0.638,                    !- Coefficient 1 of Efficiency Equation
+    4.26,                     !- Coefficient 2 of Efficiency Equation
+    0,                        !- Coefficient 3 of Efficiency Equation
+    -0.02,                    !- Coefficient 2 of Incident Angle Modifier
+    0;                        !- Coefficient 3 of Incident Angle Modifier
+
+SOLARCOLLECTORPERFORMANCE:FLATPLATE,
+    Alternate Energy Technologies American Energy AE-26E,    !- Name
+    2.36,                     !- Gross Area
+    Water,                    !- Test Fluid
+    3.85e-05,                 !- Test Flow Rate
+    Inlet,                    !- Test Correlation Type
+    0.638,                    !- Coefficient 1 of Efficiency Equation
+    4.26,                     !- Coefficient 2 of Efficiency Equation
+    0,                        !- Coefficient 3 of Efficiency Equation
+    -0.02,                    !- Coefficient 2 of Incident Angle Modifier
+    0;                        !- Coefficient 3 of Incident Angle Modifier
+
+SOLARCOLLECTORPERFORMANCE:FLATPLATE,
+    Alternate Energy Technologies American Energy AE-32E,    !- Name
+    2.97,                     !- Gross Area
+    Water,                    !- Test Fluid
+    3.85e-05,                 !- Test Flow Rate
+    Inlet,                    !- Test Correlation Type
+    0.638,                    !- Coefficient 1 of Efficiency Equation
+    4.26,                     !- Coefficient 2 of Efficiency Equation
+    0,                        !- Coefficient 3 of Efficiency Equation
+    -0.02,                    !- Coefficient 2 of Incident Angle Modifier
+    0;                        !- Coefficient 3 of Incident Angle Modifier
+
+SOLARCOLLECTORPERFORMANCE:FLATPLATE,
+    Alternate Energy Technologies Morning Star MSC-26E,    !- Name
+    2.41,                     !- Gross Area
+    Water,                    !- Test Fluid
+    3.85e-05,                 !- Test Flow Rate
+    Inlet,                    !- Test Correlation Type
+    0.638,                    !- Coefficient 1 of Efficiency Equation
+    4.26,                     !- Coefficient 2 of Efficiency Equation
+    0,                        !- Coefficient 3 of Efficiency Equation
+    -0.02,                    !- Coefficient 2 of Incident Angle Modifier
+    0;                        !- Coefficient 3 of Incident Angle Modifier
+
+SOLARCOLLECTORPERFORMANCE:FLATPLATE,
+    Alternate Energy Technologies Morning Star MSC-32E,    !- Name
+    3.02,                     !- Gross Area
+    Water,                    !- Test Fluid
+    3.85e-05,                 !- Test Flow Rate
+    Inlet,                    !- Test Correlation Type
+    0.638,                    !- Coefficient 1 of Efficiency Equation
+    4.26,                     !- Coefficient 2 of Efficiency Equation
+    0,                        !- Coefficient 3 of Efficiency Equation
+    -0.02,                    !- Coefficient 2 of Incident Angle Modifier
+    0;                        !- Coefficient 3 of Incident Angle Modifier
+
+SOLARCOLLECTORPERFORMANCE:FLATPLATE,
+    Alternate Energy Technologies Morning Star MSC-40E,    !- Name
+    3.76,                     !- Gross Area
+    Water,                    !- Test Fluid
+    3.85e-05,                 !- Test Flow Rate
+    Inlet,                    !- Test Correlation Type
+    0.638,                    !- Coefficient 1 of Efficiency Equation
+    4.26,                     !- Coefficient 2 of Efficiency Equation
+    0,                        !- Coefficient 3 of Efficiency Equation
+    -0.02,                    !- Coefficient 2 of Incident Angle Modifier
+    0;                        !- Coefficient 3 of Incident Angle Modifier
+
+SOLARCOLLECTORPERFORMANCE:FLATPLATE,
+    Alternate Energy Technologies Morning Star MSC-24E,    !- Name
+    2.27,                     !- Gross Area
+    Water,                    !- Test Fluid
+    3.85e-05,                 !- Test Flow Rate
+    Inlet,                    !- Test Correlation Type
+    0.638,                    !- Coefficient 1 of Efficiency Equation
+    4.26,                     !- Coefficient 2 of Efficiency Equation
+    0,                        !- Coefficient 3 of Efficiency Equation
+    -0.02,                    !- Coefficient 2 of Incident Angle Modifier
+    0;                        !- Coefficient 3 of Incident Angle Modifier
+
+SOLARCOLLECTORPERFORMANCE:FLATPLATE,
+    Alternate Energy Technologies American Energy AE-28E,    !- Name
+    2.6,                      !- Gross Area
+    Water,                    !- Test Fluid
+    3.85e-05,                 !- Test Flow Rate
+    Inlet,                    !- Test Correlation Type
+    0.638,                    !- Coefficient 1 of Efficiency Equation
+    4.26,                     !- Coefficient 2 of Efficiency Equation
+    0,                        !- Coefficient 3 of Efficiency Equation
+    -0.02,                    !- Coefficient 2 of Incident Angle Modifier
+    0;                        !- Coefficient 3 of Incident Angle Modifier
+
+SOLARCOLLECTORPERFORMANCE:FLATPLATE,
+    Baymak Group BAYMAK Advanced XL,    !- Name
+    2.51,                     !- Gross Area
+    Water,                    !- Test Fluid
+    4.72e-05,                 !- Test Flow Rate
+    Inlet,                    !- Test Correlation Type
+    0.708,                    !- Coefficient 1 of Efficiency Equation
+    3.73,                     !- Coefficient 2 of Efficiency Equation
+    0,                        !- Coefficient 3 of Efficiency Equation
+    0.13,                     !- Coefficient 2 of Incident Angle Modifier
+    0;                        !- Coefficient 3 of Incident Angle Modifier
+
+SOLARCOLLECTORPERFORMANCE:FLATPLATE,
+    Bosch Thermotechnology Corp. Bosch Bosch FKT-1W,    !- Name
+    2.41,                     !- Gross Area
+    Water,                    !- Test Fluid
+    4.8e-05,                  !- Test Flow Rate
+    Inlet,                    !- Test Correlation Type
+    0.739,                    !- Coefficient 1 of Efficiency Equation
+    3.44,                     !- Coefficient 2 of Efficiency Equation
+    0,                        !- Coefficient 3 of Efficiency Equation
+    0.1,                      !- Coefficient 2 of Incident Angle Modifier
+    0;                        !- Coefficient 3 of Incident Angle Modifier
+
+SOLARCOLLECTORPERFORMANCE:FLATPLATE,
+    Bosch Thermotechnology Corp. Bosch Bosch FKT-1 s+w (Vert. & Horiz.),    !- Name
+    2.41,                     !- Gross Area
+    Water,                    !- Test Fluid
+    4.8e-05,                  !- Test Flow Rate
+    Inlet,                    !- Test Correlation Type
+    0.739,                    !- Coefficient 1 of Efficiency Equation
+    3.44,                     !- Coefficient 2 of Efficiency Equation
+    0,                        !- Coefficient 3 of Efficiency Equation
+    0.1,                      !- Coefficient 2 of Incident Angle Modifier
+    0;                        !- Coefficient 3 of Incident Angle Modifier
+
+SOLARCOLLECTORPERFORMANCE:FLATPLATE,
+    Bosch Thermotechnology Corp. Buderus Buderus SKN 3.0-s+w (Vert. & Horiz.),    !- Name
+    2.41,                     !- Gross Area
+    Water,                    !- Test Fluid
+    4.8e-05,                  !- Test Flow Rate
+    Inlet,                    !- Test Correlation Type
+    0.72,                     !- Coefficient 1 of Efficiency Equation
+    4.02,                     !- Coefficient 2 of Efficiency Equation
+    0,                        !- Coefficient 3 of Efficiency Equation
+    0.02,                     !- Coefficient 2 of Incident Angle Modifier
+    0;                        !- Coefficient 3 of Incident Angle Modifier
+
+SOLARCOLLECTORPERFORMANCE:FLATPLATE,
+    Bosch Thermotechnology Corp. Bosch Bosch FKC-1 s+w (Vert. & Horiz.),    !- Name
+    2.41,                     !- Gross Area
+    Water,                    !- Test Fluid
+    4.8e-05,                  !- Test Flow Rate
+    Inlet,                    !- Test Correlation Type
+    0.72,                     !- Coefficient 1 of Efficiency Equation
+    4.02,                     !- Coefficient 2 of Efficiency Equation
+    0,                        !- Coefficient 3 of Efficiency Equation
+    0.02,                     !- Coefficient 2 of Incident Angle Modifier
+    0;                        !- Coefficient 3 of Incident Angle Modifier
+
+SOLARCOLLECTORPERFORMANCE:FLATPLATE,
+    Bosch Thermotechnology Corp. Buderus Buderus SKS 4.0-s+w (Vert. & Horiz.),    !- Name
+    2.41,                     !- Gross Area
+    Water,                    !- Test Fluid
+    4.8e-05,                  !- Test Flow Rate
+    Inlet,                    !- Test Correlation Type
+    0.709,                    !- Coefficient 1 of Efficiency Equation
+    3.26,                     !- Coefficient 2 of Efficiency Equation
+    0,                        !- Coefficient 3 of Efficiency Equation
+    0.01,                     !- Coefficient 2 of Incident Angle Modifier
+    0;                        !- Coefficient 3 of Incident Angle Modifier
+
+SOLARCOLLECTORPERFORMANCE:FLATPLATE,
+    Bosch Thermotechnology Corp. Bosch Bosch FKB-1 (Vert.),    !- Name
+    2.4,                      !- Gross Area
+    Water,                    !- Test Fluid
+    4.8e-05,                  !- Test Flow Rate
+    Inlet,                    !- Test Correlation Type
+    0.694,                    !- Coefficient 1 of Efficiency Equation
+    3.13,                     !- Coefficient 2 of Efficiency Equation
+    0,                        !- Coefficient 3 of Efficiency Equation
+    0.06,                     !- Coefficient 2 of Incident Angle Modifier
+    0;                        !- Coefficient 3 of Incident Angle Modifier
+
+SOLARCOLLECTORPERFORMANCE:FLATPLATE,
+    Bosch Thermotechnology Corp. Bosch FCC-1S,    !- Name
+    2.08,                     !- Gross Area
+    Water,                    !- Test Fluid
+    4.28e-05,                 !- Test Flow Rate
+    Inlet,                    !- Test Correlation Type
+    0.686,                    !- Coefficient 1 of Efficiency Equation
+    3.86,                     !- Coefficient 2 of Efficiency Equation
+    0,                        !- Coefficient 3 of Efficiency Equation
+    0.03,                     !- Coefficient 2 of Incident Angle Modifier
+    0;                        !- Coefficient 3 of Incident Angle Modifier
+
+SOLARCOLLECTORPERFORMANCE:FLATPLATE,
+    Bubbling Springs Solar  Inc. Main Stream MS 40,    !- Name
+    3.71,                     !- Gross Area
+    Water,                    !- Test Fluid
+    5.84e-05,                 !- Test Flow Rate
+    Inlet,                    !- Test Correlation Type
+    0.705,                    !- Coefficient 1 of Efficiency Equation
+    4.32,                     !- Coefficient 2 of Efficiency Equation
+    0,                        !- Coefficient 3 of Efficiency Equation
+    0.34,                     !- Coefficient 2 of Incident Angle Modifier
+    0;                        !- Coefficient 3 of Incident Angle Modifier
+
+SOLARCOLLECTORPERFORMANCE:FLATPLATE,
+    Bubbling Springs Solar  Inc. Main Stream MS 32,    !- Name
+    2.98,                     !- Gross Area
+    Water,                    !- Test Fluid
+    5.84e-05,                 !- Test Flow Rate
+    Inlet,                    !- Test Correlation Type
+    0.702,                    !- Coefficient 1 of Efficiency Equation
+    4.32,                     !- Coefficient 2 of Efficiency Equation
+    0,                        !- Coefficient 3 of Efficiency Equation
+    0.34,                     !- Coefficient 2 of Incident Angle Modifier
+    0;                        !- Coefficient 3 of Incident Angle Modifier
+
+SOLARCOLLECTORPERFORMANCE:FLATPLATE,
+    Bubbling Springs Solar  Inc. Main Stream MS 29,    !- Name
+    2.92,                     !- Gross Area
+    Water,                    !- Test Fluid
+    5.84e-05,                 !- Test Flow Rate
+    Inlet,                    !- Test Correlation Type
+    0.701,                    !- Coefficient 1 of Efficiency Equation
+    4.31,                     !- Coefficient 2 of Efficiency Equation
+    0,                        !- Coefficient 3 of Efficiency Equation
+    0.34,                     !- Coefficient 2 of Incident Angle Modifier
+    0;                        !- Coefficient 3 of Incident Angle Modifier
+
+SOLARCOLLECTORPERFORMANCE:FLATPLATE,
+    Caleffi Solar SolarFlat NAS10408,    !- Name
+    2.96,                     !- Gross Area
+    Water,                    !- Test Fluid
+    3.88e-05,                 !- Test Flow Rate
+    Inlet,                    !- Test Correlation Type
+    0.691,                    !- Coefficient 1 of Efficiency Equation
+    3.4,                      !- Coefficient 2 of Efficiency Equation
+    0,                        !- Coefficient 3 of Efficiency Equation
+    0.19,                     !- Coefficient 2 of Incident Angle Modifier
+    0;                        !- Coefficient 3 of Incident Angle Modifier
+
+SOLARCOLLECTORPERFORMANCE:FLATPLATE,
+    Caleffi Solar SolarFlat NAS10410,    !- Name
+    3.7,                      !- Gross Area
+    Water,                    !- Test Fluid
+    3.88e-05,                 !- Test Flow Rate
+    Inlet,                    !- Test Correlation Type
+    0.691,                    !- Coefficient 1 of Efficiency Equation
+    3.4,                      !- Coefficient 2 of Efficiency Equation
+    0,                        !- Coefficient 3 of Efficiency Equation
+    0.19,                     !- Coefficient 2 of Incident Angle Modifier
+    0;                        !- Coefficient 3 of Incident Angle Modifier
+
+SOLARCOLLECTORPERFORMANCE:FLATPLATE,
+    Caleffi Solar SolarFlat NAS10406,    !- Name
+    2.35,                     !- Gross Area
+    Water,                    !- Test Fluid
+    3.88e-05,                 !- Test Flow Rate
+    Inlet,                    !- Test Correlation Type
+    0.691,                    !- Coefficient 1 of Efficiency Equation
+    3.4,                      !- Coefficient 2 of Efficiency Equation
+    0,                        !- Coefficient 3 of Efficiency Equation
+    0.19,                     !- Coefficient 2 of Incident Angle Modifier
+    0;                        !- Coefficient 3 of Incident Angle Modifier
+
+SOLARCOLLECTORPERFORMANCE:FLATPLATE,
+    Chromagen Chromagen CR-130-A-SP,    !- Name
+    2.96,                     !- Gross Area
+    Water,                    !- Test Fluid
+    4.2e-05,                  !- Test Flow Rate
+    Inlet,                    !- Test Correlation Type
+    0.736,                    !- Coefficient 1 of Efficiency Equation
+    3.54,                     !- Coefficient 2 of Efficiency Equation
+    0,                        !- Coefficient 3 of Efficiency Equation
+    0.22,                     !- Coefficient 2 of Incident Angle Modifier
+    0;                        !- Coefficient 3 of Incident Angle Modifier
+
+SOLARCOLLECTORPERFORMANCE:FLATPLATE,
+    Chromagen Chromagen CR-140-A-P,    !- Name
+    3.71,                     !- Gross Area
+    Water,                    !- Test Fluid
+    4.2e-05,                  !- Test Flow Rate
+    Inlet,                    !- Test Correlation Type
+    0.736,                    !- Coefficient 1 of Efficiency Equation
+    3.88,                     !- Coefficient 2 of Efficiency Equation
+    0,                        !- Coefficient 3 of Efficiency Equation
+    0.3,                      !- Coefficient 2 of Incident Angle Modifier
+    0;                        !- Coefficient 3 of Incident Angle Modifier
+
+SOLARCOLLECTORPERFORMANCE:FLATPLATE,
+    Chromagen Chromagen CR-120-A-SP,    !- Name
+    2.8,                      !- Gross Area
+    Water,                    !- Test Fluid
+    4.2e-05,                  !- Test Flow Rate
+    Inlet,                    !- Test Correlation Type
+    0.735,                    !- Coefficient 1 of Efficiency Equation
+    3.53,                     !- Coefficient 2 of Efficiency Equation
+    0,                        !- Coefficient 3 of Efficiency Equation
+    0.22,                     !- Coefficient 2 of Incident Angle Modifier
+    0;                        !- Coefficient 3 of Incident Angle Modifier
+
+SOLARCOLLECTORPERFORMANCE:FLATPLATE,
+    Chromagen Chromagen CR-120-A-P,    !- Name
+    2.8,                      !- Gross Area
+    Water,                    !- Test Fluid
+    4.2e-05,                  !- Test Flow Rate
+    Inlet,                    !- Test Correlation Type
+    0.731,                    !- Coefficient 1 of Efficiency Equation
+    3.87,                     !- Coefficient 2 of Efficiency Equation
+    0,                        !- Coefficient 3 of Efficiency Equation
+    0.3,                      !- Coefficient 2 of Incident Angle Modifier
+    0;                        !- Coefficient 3 of Incident Angle Modifier
+
+SOLARCOLLECTORPERFORMANCE:FLATPLATE,
+    Chromagen Chromagen CR-130-A-P,    !- Name
+    2.96,                     !- Gross Area
+    Water,                    !- Test Fluid
+    4.2e-05,                  !- Test Flow Rate
+    Inlet,                    !- Test Correlation Type
+    0.731,                    !- Coefficient 1 of Efficiency Equation
+    3.87,                     !- Coefficient 2 of Efficiency Equation
+    0,                        !- Coefficient 3 of Efficiency Equation
+    0.3,                      !- Coefficient 2 of Incident Angle Modifier
+    0;                        !- Coefficient 3 of Incident Angle Modifier
+
+SOLARCOLLECTORPERFORMANCE:FLATPLATE,
+    Chromagen Chromagen CR-110-A-SP,    !- Name
+    2.37,                     !- Gross Area
+    Water,                    !- Test Fluid
+    4.2e-05,                  !- Test Flow Rate
+    Inlet,                    !- Test Correlation Type
+    0.727,                    !- Coefficient 1 of Efficiency Equation
+    3.51,                     !- Coefficient 2 of Efficiency Equation
+    0,                        !- Coefficient 3 of Efficiency Equation
+    0.22,                     !- Coefficient 2 of Incident Angle Modifier
+    0;                        !- Coefficient 3 of Incident Angle Modifier
+
+SOLARCOLLECTORPERFORMANCE:FLATPLATE,
+    Chromagen Chromagen CR-100-A-SP,    !- Name
+    2.09,                     !- Gross Area
+    Water,                    !- Test Fluid
+    4.2e-05,                  !- Test Flow Rate
+    Inlet,                    !- Test Correlation Type
+    0.723,                    !- Coefficient 1 of Efficiency Equation
+    3.49,                     !- Coefficient 2 of Efficiency Equation
+    0,                        !- Coefficient 3 of Efficiency Equation
+    -0.22,                    !- Coefficient 2 of Incident Angle Modifier
+    0;                        !- Coefficient 3 of Incident Angle Modifier
+
+SOLARCOLLECTORPERFORMANCE:FLATPLATE,
+    Chromagen Chromagen CR-110-A-P,    !- Name
+    2.37,                     !- Gross Area
+    Water,                    !- Test Fluid
+    4.2e-05,                  !- Test Flow Rate
+    Inlet,                    !- Test Correlation Type
+    0.722,                    !- Coefficient 1 of Efficiency Equation
+    3.84,                     !- Coefficient 2 of Efficiency Equation
+    0,                        !- Coefficient 3 of Efficiency Equation
+    0.3,                      !- Coefficient 2 of Incident Angle Modifier
+    0;                        !- Coefficient 3 of Incident Angle Modifier
+
+SOLARCOLLECTORPERFORMANCE:FLATPLATE,
+    Chromagen Chromagen CR-100-A-P,    !- Name
+    2.1,                      !- Gross Area
+    Water,                    !- Test Fluid
+    4.2e-05,                  !- Test Flow Rate
+    Inlet,                    !- Test Correlation Type
+    0.719,                    !- Coefficient 1 of Efficiency Equation
+    3.83,                     !- Coefficient 2 of Efficiency Equation
+    0,                        !- Coefficient 3 of Efficiency Equation
+    -0.3,                     !- Coefficient 2 of Incident Angle Modifier
+    0;                        !- Coefficient 3 of Incident Angle Modifier
+
+SOLARCOLLECTORPERFORMANCE:FLATPLATE,
+    Chromagen Chromagen CR-140-SP,    !- Name
+    3.71,                     !- Gross Area
+    Water,                    !- Test Fluid
+    4.17e-05,                 !- Test Flow Rate
+    Inlet,                    !- Test Correlation Type
+    0.692,                    !- Coefficient 1 of Efficiency Equation
+    3.87,                     !- Coefficient 2 of Efficiency Equation
+    0,                        !- Coefficient 3 of Efficiency Equation
+    -0.43,                    !- Coefficient 2 of Incident Angle Modifier
+    0;                        !- Coefficient 3 of Incident Angle Modifier
+
+SOLARCOLLECTORPERFORMANCE:FLATPLATE,
+    Chromagen Chromagen CR-130-SP,    !- Name
+    2.96,                     !- Gross Area
+    Water,                    !- Test Fluid
+    4.17e-05,                 !- Test Flow Rate
+    Inlet,                    !- Test Correlation Type
+    0.687,                    !- Coefficient 1 of Efficiency Equation
+    3.84,                     !- Coefficient 2 of Efficiency Equation
+    0,                        !- Coefficient 3 of Efficiency Equation
+    -0.43,                    !- Coefficient 2 of Incident Angle Modifier
+    0;                        !- Coefficient 3 of Incident Angle Modifier
+
+SOLARCOLLECTORPERFORMANCE:FLATPLATE,
+    Chromagen Chromagen CR-120-SP,    !- Name
+    2.8,                      !- Gross Area
+    Water,                    !- Test Fluid
+    4.17e-05,                 !- Test Flow Rate
+    Inlet,                    !- Test Correlation Type
+    0.681,                    !- Coefficient 1 of Efficiency Equation
+    3.82,                     !- Coefficient 2 of Efficiency Equation
+    0,                        !- Coefficient 3 of Efficiency Equation
+    -0.43,                    !- Coefficient 2 of Incident Angle Modifier
+    0;                        !- Coefficient 3 of Incident Angle Modifier
+
+SOLARCOLLECTORPERFORMANCE:FLATPLATE,
+    Chromagen Chromagen CR-100-P,    !- Name
+    2.05,                     !- Gross Area
+    Water,                    !- Test Fluid
+    4.07e-05,                 !- Test Flow Rate
+    Inlet,                    !- Test Correlation Type
+    0.678,                    !- Coefficient 1 of Efficiency Equation
+    4.41,                     !- Coefficient 2 of Efficiency Equation
+    0,                        !- Coefficient 3 of Efficiency Equation
+    0.15,                     !- Coefficient 2 of Incident Angle Modifier
+    0;                        !- Coefficient 3 of Incident Angle Modifier
+
+SOLARCOLLECTORPERFORMANCE:FLATPLATE,
+    Chromagen Chromagen CR-110-SP,    !- Name
+    2.37,                     !- Gross Area
+    Water,                    !- Test Fluid
+    4.17e-05,                 !- Test Flow Rate
+    Inlet,                    !- Test Correlation Type
+    0.678,                    !- Coefficient 1 of Efficiency Equation
+    3.81,                     !- Coefficient 2 of Efficiency Equation
+    0,                        !- Coefficient 3 of Efficiency Equation
+    -0.43,                    !- Coefficient 2 of Incident Angle Modifier
+    0;                        !- Coefficient 3 of Incident Angle Modifier
+
+SOLARCOLLECTORPERFORMANCE:FLATPLATE,
+    Chromagen Chromagen CR-100-SP,    !- Name
+    2.05,                     !- Gross Area
+    Water,                    !- Test Fluid
+    4.17e-05,                 !- Test Flow Rate
+    Inlet,                    !- Test Correlation Type
+    0.669,                    !- Coefficient 1 of Efficiency Equation
+    3.77,                     !- Coefficient 2 of Efficiency Equation
+    0,                        !- Coefficient 3 of Efficiency Equation
+    -0.43,                    !- Coefficient 2 of Incident Angle Modifier
+    0;                        !- Coefficient 3 of Incident Angle Modifier
+
+SOLARCOLLECTORPERFORMANCE:FLATPLATE,
+    Creative Solar Energy Co.  Ltd. Creative Solar CT Black,    !- Name
+    2.03,                     !- Gross Area
+    Water,                    !- Test Fluid
+    4e-05,                    !- Test Flow Rate
+    Inlet,                    !- Test Correlation Type
+    0.714,                    !- Coefficient 1 of Efficiency Equation
+    4.16,                     !- Coefficient 2 of Efficiency Equation
+    0,                        !- Coefficient 3 of Efficiency Equation
+    0.84,                     !- Coefficient 2 of Incident Angle Modifier
+    0;                        !- Coefficient 3 of Incident Angle Modifier
+
+SOLARCOLLECTORPERFORMANCE:FLATPLATE,
+    Diversified Heat Transfer Diversified Solar SC 1000,    !- Name
+    2.48,                     !- Gross Area
+    Water,                    !- Test Fluid
+    5.05e-05,                 !- Test Flow Rate
+    Inlet,                    !- Test Correlation Type
+    0.688,                    !- Coefficient 1 of Efficiency Equation
+    3.7,                      !- Coefficient 2 of Efficiency Equation
+    0,                        !- Coefficient 3 of Efficiency Equation
+    0.06,                     !- Coefficient 2 of Incident Angle Modifier
+    0;                        !- Coefficient 3 of Incident Angle Modifier
+
+SOLARCOLLECTORPERFORMANCE:FLATPLATE,
+    Emmeti North America Inc. Arcobaleno STNA,    !- Name
+    2.57,                     !- Gross Area
+    Water,                    !- Test Fluid
+    5.14e-05,                 !- Test Flow Rate
+    Inlet,                    !- Test Correlation Type
+    0.679,                    !- Coefficient 1 of Efficiency Equation
+    2.85,                     !- Coefficient 2 of Efficiency Equation
+    0,                        !- Coefficient 3 of Efficiency Equation
+    0.11,                     !- Coefficient 2 of Incident Angle Modifier
+    0;                        !- Coefficient 3 of Incident Angle Modifier
+
+SOLARCOLLECTORPERFORMANCE:FLATPLATE,
+    Energy Laboratories  Inc.  SE-40,    !- Name
+    3.58,                     !- Gross Area
+    Water,                    !- Test Fluid
+    3.75e-05,                 !- Test Flow Rate
+    Inlet,                    !- Test Correlation Type
+    0.698,                    !- Coefficient 1 of Efficiency Equation
+    3.74,                     !- Coefficient 2 of Efficiency Equation
+    0,                        !- Coefficient 3 of Efficiency Equation
+    0.07,                     !- Coefficient 2 of Incident Angle Modifier
+    0;                        !- Coefficient 3 of Incident Angle Modifier
+
+SOLARCOLLECTORPERFORMANCE:FLATPLATE,
+    Energy Laboratories  Inc.  SE-32,    !- Name
+    2.87,                     !- Gross Area
+    Water,                    !- Test Fluid
+    3.75e-05,                 !- Test Flow Rate
+    Inlet,                    !- Test Correlation Type
+    0.698,                    !- Coefficient 1 of Efficiency Equation
+    3.74,                     !- Coefficient 2 of Efficiency Equation
+    0,                        !- Coefficient 3 of Efficiency Equation
+    0.07,                     !- Coefficient 2 of Incident Angle Modifier
+    0;                        !- Coefficient 3 of Incident Angle Modifier
+
+SOLARCOLLECTORPERFORMANCE:FLATPLATE,
+    Energy Laboratories  Inc.  SE-28,    !- Name
+    2.51,                     !- Gross Area
+    Water,                    !- Test Fluid
+    3.75e-05,                 !- Test Flow Rate
+    Inlet,                    !- Test Correlation Type
+    0.698,                    !- Coefficient 1 of Efficiency Equation
+    3.74,                     !- Coefficient 2 of Efficiency Equation
+    0,                        !- Coefficient 3 of Efficiency Equation
+    0.07,                     !- Coefficient 2 of Incident Angle Modifier
+    0;                        !- Coefficient 3 of Incident Angle Modifier
+
+SOLARCOLLECTORPERFORMANCE:FLATPLATE,
+    Energy Laboratories  Inc.  SE-24,    !- Name
+    2.31,                     !- Gross Area
+    Water,                    !- Test Fluid
+    3.75e-05,                 !- Test Flow Rate
+    Inlet,                    !- Test Correlation Type
+    0.698,                    !- Coefficient 1 of Efficiency Equation
+    3.74,                     !- Coefficient 2 of Efficiency Equation
+    0,                        !- Coefficient 3 of Efficiency Equation
+    0.07,                     !- Coefficient 2 of Incident Angle Modifier
+    0;                        !- Coefficient 3 of Incident Angle Modifier
+
+SOLARCOLLECTORPERFORMANCE:FLATPLATE,
+    Energy Laboratories  Inc.  SE-21,    !- Name
+    2.03,                     !- Gross Area
+    Water,                    !- Test Fluid
+    3.75e-05,                 !- Test Flow Rate
+    Inlet,                    !- Test Correlation Type
+    0.698,                    !- Coefficient 1 of Efficiency Equation
+    3.74,                     !- Coefficient 2 of Efficiency Equation
+    0,                        !- Coefficient 3 of Efficiency Equation
+    0.07,                     !- Coefficient 2 of Incident Angle Modifier
+    0;                        !- Coefficient 3 of Incident Angle Modifier
+
+SOLARCOLLECTORPERFORMANCE:FLATPLATE,
+    EnerWorks  Inc. Commercial Collector COL-4X8-NL-SG1-SH10US,    !- Name
+    2.87,                     !- Gross Area
+    Water,                    !- Test Fluid
+    5.3e-05,                  !- Test Flow Rate
+    Inlet,                    !- Test Correlation Type
+    0.762,                    !- Coefficient 1 of Efficiency Equation
+    3.28,                     !- Coefficient 2 of Efficiency Equation
+    0,                        !- Coefficient 3 of Efficiency Equation
+    -0.06,                    !- Coefficient 2 of Incident Angle Modifier
+    0;                        !- Coefficient 3 of Incident Angle Modifier
+
+SOLARCOLLECTORPERFORMANCE:FLATPLATE,
+    EnerWorks  Inc. Residential Collector COL-4x8-TL-SG1-SD10US,    !- Name
+    2.87,                     !- Gross Area
+    Water,                    !- Test Fluid
+    5.61e-05,                 !- Test Flow Rate
+    Inlet,                    !- Test Correlation Type
+    0.717,                    !- Coefficient 1 of Efficiency Equation
+    4.01,                     !- Coefficient 2 of Efficiency Equation
+    0,                        !- Coefficient 3 of Efficiency Equation
+    0.11,                     !- Coefficient 2 of Incident Angle Modifier
+    0;                        !- Coefficient 3 of Incident Angle Modifier
+
+SOLARCOLLECTORPERFORMANCE:FLATPLATE,
+    EVOSOLAR Evosolar EVOP2,    !- Name
+    2.11,                     !- Gross Area
+    Water,                    !- Test Fluid
+    5e-05,                    !- Test Flow Rate
+    Inlet,                    !- Test Correlation Type
+    0.738,                    !- Coefficient 1 of Efficiency Equation
+    3.82,                     !- Coefficient 2 of Efficiency Equation
+    0,                        !- Coefficient 3 of Efficiency Equation
+    0.32,                     !- Coefficient 2 of Incident Angle Modifier
+    0;                        !- Coefficient 3 of Incident Angle Modifier
+
+SOLARCOLLECTORPERFORMANCE:FLATPLATE,
+    EVOSOLAR Evosolar EVOP,    !- Name
+    2.5,                      !- Gross Area
+    Water,                    !- Test Fluid
+    5e-05,                    !- Test Flow Rate
+    Inlet,                    !- Test Correlation Type
+    0.723,                    !- Coefficient 1 of Efficiency Equation
+    3.7,                      !- Coefficient 2 of Efficiency Equation
+    0,                        !- Coefficient 3 of Efficiency Equation
+    0.32,                     !- Coefficient 2 of Incident Angle Modifier
+    0;                        !- Coefficient 3 of Incident Angle Modifier
+
+SOLARCOLLECTORPERFORMANCE:FLATPLATE,
+    EVOSOLAR Evosolar EVOPN,    !- Name
+    2.5,                      !- Gross Area
+    Water,                    !- Test Fluid
+    5e-05,                    !- Test Flow Rate
+    Inlet,                    !- Test Correlation Type
+    0.659,                    !- Coefficient 1 of Efficiency Equation
+    5.4,                      !- Coefficient 2 of Efficiency Equation
+    0,                        !- Coefficient 3 of Efficiency Equation
+    0.28,                     !- Coefficient 2 of Incident Angle Modifier
+    0;                        !- Coefficient 3 of Incident Angle Modifier
+
+SOLARCOLLECTORPERFORMANCE:FLATPLATE,
+    Ezinc Metal Sanayi ve Ticaret A.S. EZINC Superline L USB,    !- Name
+    2.28,                     !- Gross Area
+    Water,                    !- Test Fluid
+    5.9e-05,                  !- Test Flow Rate
+    Inlet,                    !- Test Correlation Type
+    0.732,                    !- Coefficient 1 of Efficiency Equation
+    3.6,                      !- Coefficient 2 of Efficiency Equation
+    0,                        !- Coefficient 3 of Efficiency Equation
+    0.38,                     !- Coefficient 2 of Incident Angle Modifier
+    0;                        !- Coefficient 3 of Incident Angle Modifier
+
+SOLARCOLLECTORPERFORMANCE:FLATPLATE,
+    Ezinc Metal Sanayi ve Ticaret A.S. EZINC Superline XXL USB,    !- Name
+    2.9,                      !- Gross Area
+    Water,                    !- Test Fluid
+    5.9e-05,                  !- Test Flow Rate
+    Inlet,                    !- Test Correlation Type
+    0.713,                    !- Coefficient 1 of Efficiency Equation
+    3.49,                     !- Coefficient 2 of Efficiency Equation
+    0,                        !- Coefficient 3 of Efficiency Equation
+    0.38,                     !- Coefficient 2 of Incident Angle Modifier
+    0;                        !- Coefficient 3 of Incident Angle Modifier
+
+SOLARCOLLECTORPERFORMANCE:FLATPLATE,
+    Free Hot Water Free Hot Water FHW-FC7275B,    !- Name
+    2.57,                     !- Gross Area
+    Water,                    !- Test Fluid
+    5.14e-05,                 !- Test Flow Rate
+    Inlet,                    !- Test Correlation Type
+    0.679,                    !- Coefficient 1 of Efficiency Equation
+    2.85,                     !- Coefficient 2 of Efficiency Equation
+    0,                        !- Coefficient 3 of Efficiency Equation
+    0.11,                     !- Coefficient 2 of Incident Angle Modifier
+    0;                        !- Coefficient 3 of Incident Angle Modifier
+
+SOLARCOLLECTORPERFORMANCE:FLATPLATE,
+    Free Hot Water Free Hot Water FHW-FC7275A,    !- Name
+    2.57,                     !- Gross Area
+    Water,                    !- Test Fluid
+    5.14e-05,                 !- Test Flow Rate
+    Inlet,                    !- Test Correlation Type
+    0.679,                    !- Coefficient 1 of Efficiency Equation
+    2.85,                     !- Coefficient 2 of Efficiency Equation
+    0,                        !- Coefficient 3 of Efficiency Equation
+    0.11,                     !- Coefficient 2 of Incident Angle Modifier
+    0;                        !- Coefficient 3 of Incident Angle Modifier
+
+SOLARCOLLECTORPERFORMANCE:FLATPLATE,
+    Free Hot Water Free Hot Water FHW-FC50221,    !- Name
+    2.07,                     !- Gross Area
+    Water,                    !- Test Fluid
+    4.14e-05,                 !- Test Flow Rate
+    Inlet,                    !- Test Correlation Type
+    0.679,                    !- Coefficient 1 of Efficiency Equation
+    3.26,                     !- Coefficient 2 of Efficiency Equation
+    0,                        !- Coefficient 3 of Efficiency Equation
+    0.11,                     !- Coefficient 2 of Incident Angle Modifier
+    0;                        !- Coefficient 3 of Incident Angle Modifier
+
+SOLARCOLLECTORPERFORMANCE:FLATPLATE,
+    Free Hot Water Free Hot Water FHW-FC4220,    !- Name
+    2.03,                     !- Gross Area
+    Water,                    !- Test Fluid
+    4.4e-05,                  !- Test Flow Rate
+    Inlet,                    !- Test Correlation Type
+    0.666,                    !- Coefficient 1 of Efficiency Equation
+    3.72,                     !- Coefficient 2 of Efficiency Equation
+    0,                        !- Coefficient 3 of Efficiency Equation
+    -0.03,                    !- Coefficient 2 of Incident Angle Modifier
+    0;                        !- Coefficient 3 of Incident Angle Modifier
+
+SOLARCOLLECTORPERFORMANCE:FLATPLATE,
+    General Solar Systems GmbH SK500N FK7250N,    !- Name
+    2.57,                     !- Gross Area
+    Water,                    !- Test Fluid
+    5.14e-05,                 !- Test Flow Rate
+    Inlet,                    !- Test Correlation Type
+    0.679,                    !- Coefficient 1 of Efficiency Equation
+    2.85,                     !- Coefficient 2 of Efficiency Equation
+    0,                        !- Coefficient 3 of Efficiency Equation
+    0.11,                     !- Coefficient 2 of Incident Angle Modifier
+    0;                        !- Coefficient 3 of Incident Angle Modifier
+
+SOLARCOLLECTORPERFORMANCE:FLATPLATE,
+    Genersys PLC Genersys 1000-10 & 1200,    !- Name
+    2.04,                     !- Gross Area
+    Water,                    !- Test Fluid
+    1.3e-05,                  !- Test Flow Rate
+    Inlet,                    !- Test Correlation Type
+    0.588,                    !- Coefficient 1 of Efficiency Equation
+    3.57,                     !- Coefficient 2 of Efficiency Equation
+    0,                        !- Coefficient 3 of Efficiency Equation
+    0.04,                     !- Coefficient 2 of Incident Angle Modifier
+    0;                        !- Coefficient 3 of Incident Angle Modifier
+
+SOLARCOLLECTORPERFORMANCE:FLATPLATE,
+    Geo-Tec Solar Industries GmbH Geo-Tec GSE2000   TIN,    !- Name
+    1.99,                     !- Gross Area
+    Water,                    !- Test Fluid
+    4.44e-05,                 !- Test Flow Rate
+    Inlet,                    !- Test Correlation Type
+    0.74,                     !- Coefficient 1 of Efficiency Equation
+    3.79,                     !- Coefficient 2 of Efficiency Equation
+    0,                        !- Coefficient 3 of Efficiency Equation
+    0.05,                     !- Coefficient 2 of Incident Angle Modifier
+    0;                        !- Coefficient 3 of Incident Angle Modifier
+
+SOLARCOLLECTORPERFORMANCE:FLATPLATE,
+    Grand Solar Co.  Ltd. Grand Solar GSOL-P20,    !- Name
+    2.07,                     !- Gross Area
+    Water,                    !- Test Fluid
+    4.14e-05,                 !- Test Flow Rate
+    Inlet,                    !- Test Correlation Type
+    0.679,                    !- Coefficient 1 of Efficiency Equation
+    3.26,                     !- Coefficient 2 of Efficiency Equation
+    0,                        !- Coefficient 3 of Efficiency Equation
+    0.11,                     !- Coefficient 2 of Incident Angle Modifier
+    0;                        !- Coefficient 3 of Incident Angle Modifier
+
+SOLARCOLLECTORPERFORMANCE:FLATPLATE,
+    GREENoneTEC Solarindustrie GmbH SK500L FK7250L,    !- Name
+    2.57,                     !- Gross Area
+    Water,                    !- Test Fluid
+    5.14e-05,                 !- Test Flow Rate
+    Inlet,                    !- Test Correlation Type
+    0.679,                    !- Coefficient 1 of Efficiency Equation
+    2.85,                     !- Coefficient 2 of Efficiency Equation
+    0,                        !- Coefficient 3 of Efficiency Equation
+    0.11,                     !- Coefficient 2 of Incident Angle Modifier
+    0;                        !- Coefficient 3 of Incident Angle Modifier
+
+SOLARCOLLECTORPERFORMANCE:FLATPLATE,
+    GREENoneTEC Solarindustrie GmbH SK500N FK7250N,    !- Name
+    2.57,                     !- Gross Area
+    Water,                    !- Test Fluid
+    5.14e-05,                 !- Test Flow Rate
+    Inlet,                    !- Test Correlation Type
+    0.679,                    !- Coefficient 1 of Efficiency Equation
+    2.85,                     !- Coefficient 2 of Efficiency Equation
+    0,                        !- Coefficient 3 of Efficiency Equation
+    0.11,                     !- Coefficient 2 of Incident Angle Modifier
+    0;                        !- Coefficient 3 of Incident Angle Modifier
+
+SOLARCOLLECTORPERFORMANCE:FLATPLATE,
+    Guangdong Fivestar Solar Energy Co.  Ltd FiveStar FP3.0-A,    !- Name
+    2.01,                     !- Gross Area
+    Water,                    !- Test Fluid
+    4e-05,                    !- Test Flow Rate
+    Inlet,                    !- Test Correlation Type
+    0.3,                      !- Coefficient 1 of Efficiency Equation
+    2,                        !- Coefficient 2 of Efficiency Equation
+    0,                        !- Coefficient 3 of Efficiency Equation
+    -4,                       !- Coefficient 2 of Incident Angle Modifier
+    0;                        !- Coefficient 3 of Incident Angle Modifier
+
+SOLARCOLLECTORPERFORMANCE:FLATPLATE,
+    Heat Transfer Products Solar Spectrum FP-26SC,    !- Name
+    2.35,                     !- Gross Area
+    Water,                    !- Test Fluid
+    3.88e-05,                 !- Test Flow Rate
+    Inlet,                    !- Test Correlation Type
+    0.691,                    !- Coefficient 1 of Efficiency Equation
+    3.4,                      !- Coefficient 2 of Efficiency Equation
+    0,                        !- Coefficient 3 of Efficiency Equation
+    0.19,                     !- Coefficient 2 of Incident Angle Modifier
+    0;                        !- Coefficient 3 of Incident Angle Modifier
+
+SOLARCOLLECTORPERFORMANCE:FLATPLATE,
+    Heat Transfer Products Solar Spectrum FP-32SC,    !- Name
+    2.96,                     !- Gross Area
+    Water,                    !- Test Fluid
+    3.88e-05,                 !- Test Flow Rate
+    Inlet,                    !- Test Correlation Type
+    0.691,                    !- Coefficient 1 of Efficiency Equation
+    3.4,                      !- Coefficient 2 of Efficiency Equation
+    0,                        !- Coefficient 3 of Efficiency Equation
+    0.19,                     !- Coefficient 2 of Incident Angle Modifier
+    0;                        !- Coefficient 3 of Incident Angle Modifier
+
+SOLARCOLLECTORPERFORMANCE:FLATPLATE,
+    Heat Transfer Products Solar Spectrum FP-40SC,    !- Name
+    3.7,                      !- Gross Area
+    Water,                    !- Test Fluid
+    3.88e-05,                 !- Test Flow Rate
+    Inlet,                    !- Test Correlation Type
+    0.691,                    !- Coefficient 1 of Efficiency Equation
+    3.4,                      !- Coefficient 2 of Efficiency Equation
+    0,                        !- Coefficient 3 of Efficiency Equation
+    0.19,                     !- Coefficient 2 of Incident Angle Modifier
+    0;                        !- Coefficient 3 of Incident Angle Modifier
+
+SOLARCOLLECTORPERFORMANCE:FLATPLATE,
+    Heliodyne  Inc. Gobi 410 001,    !- Name
+    3.73,                     !- Gross Area
+    Water,                    !- Test Fluid
+    4.98e-05,                 !- Test Flow Rate
+    Inlet,                    !- Test Correlation Type
+    0.733,                    !- Coefficient 1 of Efficiency Equation
+    3.41,                     !- Coefficient 2 of Efficiency Equation
+    0,                        !- Coefficient 3 of Efficiency Equation
+    -0.06,                    !- Coefficient 2 of Incident Angle Modifier
+    0;                        !- Coefficient 3 of Incident Angle Modifier
+
+SOLARCOLLECTORPERFORMANCE:FLATPLATE,
+    Heliodyne  Inc. Gobi 408 001,    !- Name
+    2.99,                     !- Gross Area
+    Water,                    !- Test Fluid
+    4.98e-05,                 !- Test Flow Rate
+    Inlet,                    !- Test Correlation Type
+    0.73,                     !- Coefficient 1 of Efficiency Equation
+    3.41,                     !- Coefficient 2 of Efficiency Equation
+    0,                        !- Coefficient 3 of Efficiency Equation
+    -0.06,                    !- Coefficient 2 of Incident Angle Modifier
+    0;                        !- Coefficient 3 of Incident Angle Modifier
+
+SOLARCOLLECTORPERFORMANCE:FLATPLATE,
+    Heliodyne  Inc. Gobi 406 001,    !- Name
+    2.5,                      !- Gross Area
+    Water,                    !- Test Fluid
+    4.98e-05,                 !- Test Flow Rate
+    Inlet,                    !- Test Correlation Type
+    0.726,                    !- Coefficient 1 of Efficiency Equation
+    3.4,                      !- Coefficient 2 of Efficiency Equation
+    0,                        !- Coefficient 3 of Efficiency Equation
+    -0.06,                    !- Coefficient 2 of Incident Angle Modifier
+    0;                        !- Coefficient 3 of Incident Angle Modifier
+
+SOLARCOLLECTORPERFORMANCE:FLATPLATE,
+    Heliodyne  Inc. Gobi 336 001,    !- Name
+    2.49,                     !- Gross Area
+    Water,                    !- Test Fluid
+    4.98e-05,                 !- Test Flow Rate
+    Inlet,                    !- Test Correlation Type
+    0.725,                    !- Coefficient 1 of Efficiency Equation
+    3.24,                     !- Coefficient 2 of Efficiency Equation
+    0,                        !- Coefficient 3 of Efficiency Equation
+    -0.06,                    !- Coefficient 2 of Incident Angle Modifier
+    0;                        !- Coefficient 3 of Incident Angle Modifier
+
+SOLARCOLLECTORPERFORMANCE:FLATPLATE,
+    Heliodyne  Inc. Gobi 406 002,    !- Name
+    2.5,                      !- Gross Area
+    Water,                    !- Test Fluid
+    5.4986e-05,               !- Test Flow Rate
+    Inlet,                    !- Test Correlation Type
+    0.719,                    !- Coefficient 1 of Efficiency Equation
+    5.31,                     !- Coefficient 2 of Efficiency Equation
+    0,                        !- Coefficient 3 of Efficiency Equation
+    0.09,                     !- Coefficient 2 of Incident Angle Modifier
+    0;                        !- Coefficient 3 of Incident Angle Modifier
+
+SOLARCOLLECTORPERFORMANCE:FLATPLATE,
+    Heliodyne  Inc. Gobi 410 002,    !- Name
+    3.73,                     !- Gross Area
+    Water,                    !- Test Fluid
+    5.6e-05,                  !- Test Flow Rate
+    Inlet,                    !- Test Correlation Type
+    0.719,                    !- Coefficient 1 of Efficiency Equation
+    5.31,                     !- Coefficient 2 of Efficiency Equation
+    0,                        !- Coefficient 3 of Efficiency Equation
+    0.09,                     !- Coefficient 2 of Incident Angle Modifier
+    0;                        !- Coefficient 3 of Incident Angle Modifier
+
+SOLARCOLLECTORPERFORMANCE:FLATPLATE,
+    Heliodyne  Inc. Gobi 408 002,    !- Name
+    3,                        !- Gross Area
+    Water,                    !- Test Fluid
+    5.4986e-05,               !- Test Flow Rate
+    Inlet,                    !- Test Correlation Type
+    0.719,                    !- Coefficient 1 of Efficiency Equation
+    5.31,                     !- Coefficient 2 of Efficiency Equation
+    0,                        !- Coefficient 3 of Efficiency Equation
+    0.09,                     !- Coefficient 2 of Incident Angle Modifier
+    0;                        !- Coefficient 3 of Incident Angle Modifier
+
+SOLARCOLLECTORPERFORMANCE:FLATPLATE,
+    Heliodyne  Inc. Gobi 404 001,    !- Name
+    1.52,                     !- Gross Area
+    Water,                    !- Test Fluid
+    4.98e-05,                 !- Test Flow Rate
+    Inlet,                    !- Test Correlation Type
+    0.713,                    !- Coefficient 1 of Efficiency Equation
+    3.38,                     !- Coefficient 2 of Efficiency Equation
+    0,                        !- Coefficient 3 of Efficiency Equation
+    -0.06,                    !- Coefficient 2 of Incident Angle Modifier
+    0;                        !- Coefficient 3 of Incident Angle Modifier
+
+SOLARCOLLECTORPERFORMANCE:FLATPLATE,
+    Heliodyne  Inc. Gobi 410 013,    !- Name
+    3.73,                     !- Gross Area
+    Water,                    !- Test Fluid
+    4.98e-05,                 !- Test Flow Rate
+    Inlet,                    !- Test Correlation Type
+    0.711,                    !- Coefficient 1 of Efficiency Equation
+    3.93,                     !- Coefficient 2 of Efficiency Equation
+    0,                        !- Coefficient 3 of Efficiency Equation
+    -0.04,                    !- Coefficient 2 of Incident Angle Modifier
+    0;                        !- Coefficient 3 of Incident Angle Modifier
+
+SOLARCOLLECTORPERFORMANCE:FLATPLATE,
+    Heliodyne  Inc. Gobi 408 013,    !- Name
+    2.99,                     !- Gross Area
+    Water,                    !- Test Fluid
+    4.98e-05,                 !- Test Flow Rate
+    Inlet,                    !- Test Correlation Type
+    0.707,                    !- Coefficient 1 of Efficiency Equation
+    3.92,                     !- Coefficient 2 of Efficiency Equation
+    0,                        !- Coefficient 3 of Efficiency Equation
+    -0.04,                    !- Coefficient 2 of Incident Angle Modifier
+    0;                        !- Coefficient 3 of Incident Angle Modifier
+
+SOLARCOLLECTORPERFORMANCE:FLATPLATE,
+    Heliodyne  Inc. Gobi 406 013,    !- Name
+    2.5,                      !- Gross Area
+    Water,                    !- Test Fluid
+    4.98e-05,                 !- Test Flow Rate
+    Inlet,                    !- Test Correlation Type
+    0.704,                    !- Coefficient 1 of Efficiency Equation
+    3.75,                     !- Coefficient 2 of Efficiency Equation
+    0,                        !- Coefficient 3 of Efficiency Equation
+    -0.04,                    !- Coefficient 2 of Incident Angle Modifier
+    0;                        !- Coefficient 3 of Incident Angle Modifier
+
+SOLARCOLLECTORPERFORMANCE:FLATPLATE,
+    Heliodyne  Inc. Gobi 336 013,    !- Name
+    2.49,                     !- Gross Area
+    Water,                    !- Test Fluid
+    4.98e-05,                 !- Test Flow Rate
+    Inlet,                    !- Test Correlation Type
+    0.701,                    !- Coefficient 1 of Efficiency Equation
+    3.73,                     !- Coefficient 2 of Efficiency Equation
+    0,                        !- Coefficient 3 of Efficiency Equation
+    -0.04,                    !- Coefficient 2 of Incident Angle Modifier
+    0;                        !- Coefficient 3 of Incident Angle Modifier
+
+SOLARCOLLECTORPERFORMANCE:FLATPLATE,
+    Integrated Solar LLC Architectural Series AS408C,    !- Name
+    2.95,                     !- Gross Area
+    Water,                    !- Test Fluid
+    5.92e-05,                 !- Test Flow Rate
+    Inlet,                    !- Test Correlation Type
+    0.791,                    !- Coefficient 1 of Efficiency Equation
+    4.78,                     !- Coefficient 2 of Efficiency Equation
+    0,                        !- Coefficient 3 of Efficiency Equation
+    -0.03,                    !- Coefficient 2 of Incident Angle Modifier
+    0;                        !- Coefficient 3 of Incident Angle Modifier
+
+SOLARCOLLECTORPERFORMANCE:FLATPLATE,
+    Integrated Solar LLC Architectual Series AS408P,    !- Name
+    2.96,                     !- Gross Area
+    Water,                    !- Test Fluid
+    5.92e-05,                 !- Test Flow Rate
+    Inlet,                    !- Test Correlation Type
+    0.788,                    !- Coefficient 1 of Efficiency Equation
+    6.35,                     !- Coefficient 2 of Efficiency Equation
+    0,                        !- Coefficient 3 of Efficiency Equation
+    0.45,                     !- Coefficient 2 of Incident Angle Modifier
+    0;                        !- Coefficient 3 of Incident Angle Modifier
+
+SOLARCOLLECTORPERFORMANCE:FLATPLATE,
+    Integrated Solar LLC  Radco 410C-HP,    !- Name
+    3.71,                     !- Gross Area
+    Water,                    !- Test Fluid
+    6e-05,                    !- Test Flow Rate
+    Inlet,                    !- Test Correlation Type
+    0.671,                    !- Coefficient 1 of Efficiency Equation
+    4.86,                     !- Coefficient 2 of Efficiency Equation
+    0,                        !- Coefficient 3 of Efficiency Equation
+    0.37,                     !- Coefficient 2 of Incident Angle Modifier
+    0;                        !- Coefficient 3 of Incident Angle Modifier
+
+SOLARCOLLECTORPERFORMANCE:FLATPLATE,
+    Integrated Solar LLC  Radco 412C-HP,    !- Name
+    4.49,                     !- Gross Area
+    Water,                    !- Test Fluid
+    6e-05,                    !- Test Flow Rate
+    Inlet,                    !- Test Correlation Type
+    0.669,                    !- Coefficient 1 of Efficiency Equation
+    4.84,                     !- Coefficient 2 of Efficiency Equation
+    0,                        !- Coefficient 3 of Efficiency Equation
+    0.37,                     !- Coefficient 2 of Incident Angle Modifier
+    0;                        !- Coefficient 3 of Incident Angle Modifier
+
+SOLARCOLLECTORPERFORMANCE:FLATPLATE,
+    Integrated Solar LLC  Radco 308C-HP,    !- Name
+    2.2,                      !- Gross Area
+    Water,                    !- Test Fluid
+    6e-05,                    !- Test Flow Rate
+    Inlet,                    !- Test Correlation Type
+    0.665,                    !- Coefficient 1 of Efficiency Equation
+    4.89,                     !- Coefficient 2 of Efficiency Equation
+    0,                        !- Coefficient 3 of Efficiency Equation
+    0.37,                     !- Coefficient 2 of Incident Angle Modifier
+    0;                        !- Coefficient 3 of Incident Angle Modifier
+
+SOLARCOLLECTORPERFORMANCE:FLATPLATE,
+    Integrated Solar LLC  Radco 408C-HP,    !- Name
+    3,                        !- Gross Area
+    Water,                    !- Test Fluid
+    6e-05,                    !- Test Flow Rate
+    Inlet,                    !- Test Correlation Type
+    0.662,                    !- Coefficient 1 of Efficiency Equation
+    4.81,                     !- Coefficient 2 of Efficiency Equation
+    0,                        !- Coefficient 3 of Efficiency Equation
+    0.37,                     !- Coefficient 2 of Incident Angle Modifier
+    0;                        !- Coefficient 3 of Incident Angle Modifier
+
+SOLARCOLLECTORPERFORMANCE:FLATPLATE,
+    Integrated Solar LLC  Radco 410P-HP,    !- Name
+    3.71,                     !- Gross Area
+    Water,                    !- Test Fluid
+    6.17e-05,                 !- Test Flow Rate
+    Inlet,                    !- Test Correlation Type
+    0.661,                    !- Coefficient 1 of Efficiency Equation
+    6.48,                     !- Coefficient 2 of Efficiency Equation
+    0,                        !- Coefficient 3 of Efficiency Equation
+    0,                        !- Coefficient 2 of Incident Angle Modifier
+    0;                        !- Coefficient 3 of Incident Angle Modifier
+
+SOLARCOLLECTORPERFORMANCE:FLATPLATE,
+    Integrated Solar LLC  Radco 412P-HP,    !- Name
+    4.49,                     !- Gross Area
+    Water,                    !- Test Fluid
+    6.17e-05,                 !- Test Flow Rate
+    Inlet,                    !- Test Correlation Type
+    0.658,                    !- Coefficient 1 of Efficiency Equation
+    6.45,                     !- Coefficient 2 of Efficiency Equation
+    0,                        !- Coefficient 3 of Efficiency Equation
+    0,                        !- Coefficient 2 of Incident Angle Modifier
+    0;                        !- Coefficient 3 of Incident Angle Modifier
+
+SOLARCOLLECTORPERFORMANCE:FLATPLATE,
+    Integrated Solar LLC  Radco 408P-HP,    !- Name
+    3,                        !- Gross Area
+    Water,                    !- Test Fluid
+    6.17e-05,                 !- Test Flow Rate
+    Inlet,                    !- Test Correlation Type
+    0.656,                    !- Coefficient 1 of Efficiency Equation
+    6.45,                     !- Coefficient 2 of Efficiency Equation
+    0,                        !- Coefficient 3 of Efficiency Equation
+    0,                        !- Coefficient 2 of Incident Angle Modifier
+    0;                        !- Coefficient 3 of Incident Angle Modifier
+
+SOLARCOLLECTORPERFORMANCE:FLATPLATE,
+    Integrated Solar LLC  Radco 308P-HP,    !- Name
+    2.2,                      !- Gross Area
+    Water,                    !- Test Fluid
+    6.17e-05,                 !- Test Flow Rate
+    Inlet,                    !- Test Correlation Type
+    0.655,                    !- Coefficient 1 of Efficiency Equation
+    6.49,                     !- Coefficient 2 of Efficiency Equation
+    0,                        !- Coefficient 3 of Efficiency Equation
+    0,                        !- Coefficient 2 of Incident Angle Modifier
+    0;                        !- Coefficient 3 of Incident Angle Modifier
+
+SOLARCOLLECTORPERFORMANCE:FLATPLATE,
+    Jiangsu Micoe Solar Energy Co.  Ltd. Micoe FPC2220,    !- Name
+    2.14,                     !- Gross Area
+    Water,                    !- Test Fluid
+    3.72e-05,                 !- Test Flow Rate
+    Inlet,                    !- Test Correlation Type
+    0.662,                    !- Coefficient 1 of Efficiency Equation
+    3.82,                     !- Coefficient 2 of Efficiency Equation
+    0,                        !- Coefficient 3 of Efficiency Equation
+    0.32,                     !- Coefficient 2 of Incident Angle Modifier
+    0;                        !- Coefficient 3 of Incident Angle Modifier
+
+SOLARCOLLECTORPERFORMANCE:FLATPLATE,
+    Jiangsu Sunrain Solar Energy Co. Ltd. Sunrain SR210,    !- Name
+    2.14,                     !- Gross Area
+    Water,                    !- Test Fluid
+    4.28e-05,                 !- Test Flow Rate
+    Inlet,                    !- Test Correlation Type
+    0.662,                    !- Coefficient 1 of Efficiency Equation
+    3.82,                     !- Coefficient 2 of Efficiency Equation
+    0,                        !- Coefficient 3 of Efficiency Equation
+    0.32,                     !- Coefficient 2 of Incident Angle Modifier
+    0;                        !- Coefficient 3 of Incident Angle Modifier
+
+SOLARCOLLECTORPERFORMANCE:FLATPLATE,
+    KBB Kollektorbau  K423-DH,    !- Name
+    2.51,                     !- Gross Area
+    Water,                    !- Test Fluid
+    8.33e-05,                 !- Test Flow Rate
+    Inlet,                    !- Test Correlation Type
+    0.71,                     !- Coefficient 1 of Efficiency Equation
+    3.19,                     !- Coefficient 2 of Efficiency Equation
+    0,                        !- Coefficient 3 of Efficiency Equation
+    0.06,                     !- Coefficient 2 of Incident Angle Modifier
+    0;                        !- Coefficient 3 of Incident Angle Modifier
+
+SOLARCOLLECTORPERFORMANCE:FLATPLATE,
+    KIOTO Clear Energy S.A. de C.V. Kioto Clear Energy FP 7.25.0 H,    !- Name
+    2.57,                     !- Gross Area
+    Water,                    !- Test Fluid
+    5.14e-05,                 !- Test Flow Rate
+    Inlet,                    !- Test Correlation Type
+    0.679,                    !- Coefficient 1 of Efficiency Equation
+    2.85,                     !- Coefficient 2 of Efficiency Equation
+    0,                        !- Coefficient 3 of Efficiency Equation
+    0.11,                     !- Coefficient 2 of Incident Angle Modifier
+    0;                        !- Coefficient 3 of Incident Angle Modifier
+
+SOLARCOLLECTORPERFORMANCE:FLATPLATE,
+    KIOTO Clear Energy S.A. de C.V. Kioto Clear Energy FP 7.25.0 V,    !- Name
+    2.57,                     !- Gross Area
+    Water,                    !- Test Fluid
+    5.14e-05,                 !- Test Flow Rate
+    Inlet,                    !- Test Correlation Type
+    0.679,                    !- Coefficient 1 of Efficiency Equation
+    2.85,                     !- Coefficient 2 of Efficiency Equation
+    0,                        !- Coefficient 3 of Efficiency Equation
+    0.11,                     !- Coefficient 2 of Incident Angle Modifier
+    0;                        !- Coefficient 3 of Incident Angle Modifier
+
+SOLARCOLLECTORPERFORMANCE:FLATPLATE,
+    KIOTO Clear Energy S.A. de C.V. KIOTO Clear Energy FP 1.20.0 HE sc,    !- Name
+    2.03,                     !- Gross Area
+    Water,                    !- Test Fluid
+    4.3e-05,                  !- Test Flow Rate
+    Inlet,                    !- Test Correlation Type
+    0.679,                    !- Coefficient 1 of Efficiency Equation
+    3.59,                     !- Coefficient 2 of Efficiency Equation
+    0,                        !- Coefficient 3 of Efficiency Equation
+    0.02,                     !- Coefficient 2 of Incident Angle Modifier
+    0;                        !- Coefficient 3 of Incident Angle Modifier
+
+SOLARCOLLECTORPERFORMANCE:FLATPLATE,
+    KIOTO Clear Energy S.A. de C.V. KIOTO Clear Energy FP 1.20.0 LE sc,    !- Name
+    2.03,                     !- Gross Area
+    Water,                    !- Test Fluid
+    4.4e-05,                  !- Test Flow Rate
+    Inlet,                    !- Test Correlation Type
+    0.666,                    !- Coefficient 1 of Efficiency Equation
+    3.72,                     !- Coefficient 2 of Efficiency Equation
+    0,                        !- Coefficient 3 of Efficiency Equation
+    -0.03,                    !- Coefficient 2 of Incident Angle Modifier
+    0;                        !- Coefficient 3 of Incident Angle Modifier
+
+SOLARCOLLECTORPERFORMANCE:FLATPLATE,
+    Lochinvar Corporation Lochinvar TiSun SLV030   SLH030,    !- Name
+    2.55,                     !- Gross Area
+    Water,                    !- Test Fluid
+    5.1e-05,                  !- Test Flow Rate
+    Inlet,                    !- Test Correlation Type
+    0.733,                    !- Coefficient 1 of Efficiency Equation
+    3.39,                     !- Coefficient 2 of Efficiency Equation
+    0,                        !- Coefficient 3 of Efficiency Equation
+    0.17,                     !- Coefficient 2 of Incident Angle Modifier
+    0;                        !- Coefficient 3 of Incident Angle Modifier
+
+SOLARCOLLECTORPERFORMANCE:FLATPLATE,
+    Lochinvar Corporation Lochinvar TiSun SCH110,    !- Name
+    10.1,                     !- Gross Area
+    Water,                    !- Test Fluid
+    1.61e-05,                 !- Test Flow Rate
+    Inlet,                    !- Test Correlation Type
+    0.732,                    !- Coefficient 1 of Efficiency Equation
+    3.36,                     !- Coefficient 2 of Efficiency Equation
+    0,                        !- Coefficient 3 of Efficiency Equation
+    0,                        !- Coefficient 2 of Incident Angle Modifier
+    0;                        !- Coefficient 3 of Incident Angle Modifier
+
+SOLARCOLLECTORPERFORMANCE:FLATPLATE,
+    Lochinvar Corporation Lochinvar TiSun SCH130,    !- Name
+    12.1,                     !- Gross Area
+    Water,                    !- Test Fluid
+    1.61e-05,                 !- Test Flow Rate
+    Inlet,                    !- Test Correlation Type
+    0.731,                    !- Coefficient 1 of Efficiency Equation
+    3.35,                     !- Coefficient 2 of Efficiency Equation
+    0,                        !- Coefficient 3 of Efficiency Equation
+    0,                        !- Coefficient 2 of Incident Angle Modifier
+    0;                        !- Coefficient 3 of Incident Angle Modifier
+
+SOLARCOLLECTORPERFORMANCE:FLATPLATE,
+    Lochinvar Corporation Lochinvar TiSun SCH065,    !- Name
+    6.1,                      !- Gross Area
+    Water,                    !- Test Fluid
+    1.61e-05,                 !- Test Flow Rate
+    Inlet,                    !- Test Correlation Type
+    0.726,                    !- Coefficient 1 of Efficiency Equation
+    3.34,                     !- Coefficient 2 of Efficiency Equation
+    0,                        !- Coefficient 3 of Efficiency Equation
+    0,                        !- Coefficient 2 of Incident Angle Modifier
+    0;                        !- Coefficient 3 of Incident Angle Modifier
+
+SOLARCOLLECTORPERFORMANCE:FLATPLATE,
+    Lochinvar Corporation Lochinvar TiSun SCH090,    !- Name
+    8.08,                     !- Gross Area
+    Water,                    !- Test Fluid
+    1.61e-05,                 !- Test Flow Rate
+    Inlet,                    !- Test Correlation Type
+    0.708,                    !- Coefficient 1 of Efficiency Equation
+    3.25,                     !- Coefficient 2 of Efficiency Equation
+    0,                        !- Coefficient 3 of Efficiency Equation
+    0,                        !- Coefficient 2 of Incident Angle Modifier
+    0;                        !- Coefficient 3 of Incident Angle Modifier
+
+SOLARCOLLECTORPERFORMANCE:FLATPLATE,
+    Marathon International Baxi S-SPC 18,    !- Name
+    1.92,                     !- Gross Area
+    Water,                    !- Test Fluid
+    3.82e-05,                 !- Test Flow Rate
+    Inlet,                    !- Test Correlation Type
+    0.693,                    !- Coefficient 1 of Efficiency Equation
+    4.04,                     !- Coefficient 2 of Efficiency Equation
+    0,                        !- Coefficient 3 of Efficiency Equation
+    0.18,                     !- Coefficient 2 of Incident Angle Modifier
+    0;                        !- Coefficient 3 of Incident Angle Modifier
+
+SOLARCOLLECTORPERFORMANCE:FLATPLATE,
+    Meibes System-Technik GmbH Meibes System-Technik GmbH MFK 001,    !- Name
+    2.52,                     !- Gross Area
+    Water,                    !- Test Fluid
+    4.7e-05,                  !- Test Flow Rate
+    Inlet,                    !- Test Correlation Type
+    0.741,                    !- Coefficient 1 of Efficiency Equation
+    3.5,                      !- Coefficient 2 of Efficiency Equation
+    0,                        !- Coefficient 3 of Efficiency Equation
+    0.05,                     !- Coefficient 2 of Incident Angle Modifier
+    0;                        !- Coefficient 3 of Incident Angle Modifier
+
+SOLARCOLLECTORPERFORMANCE:FLATPLATE,
+    Meibes System-Technik GmbH Meibes System-Technik GmbH MFK 002,    !- Name
+    2.34,                     !- Gross Area
+    Water,                    !- Test Fluid
+    4.8e-05,                  !- Test Flow Rate
+    Inlet,                    !- Test Correlation Type
+    0.699,                    !- Coefficient 1 of Efficiency Equation
+    2.33,                     !- Coefficient 2 of Efficiency Equation
+    0,                        !- Coefficient 3 of Efficiency Equation
+    0.03,                     !- Coefficient 2 of Incident Angle Modifier
+    0;                        !- Coefficient 3 of Incident Angle Modifier
+
+SOLARCOLLECTORPERFORMANCE:FLATPLATE,
+    MGL  LLC AQASOL AQASOL AZ 22,    !- Name
+    2.03,                     !- Gross Area
+    Water,                    !- Test Fluid
+    4.3e-05,                  !- Test Flow Rate
+    Inlet,                    !- Test Correlation Type
+    0.679,                    !- Coefficient 1 of Efficiency Equation
+    3.59,                     !- Coefficient 2 of Efficiency Equation
+    0,                        !- Coefficient 3 of Efficiency Equation
+    0.02,                     !- Coefficient 2 of Incident Angle Modifier
+    0;                        !- Coefficient 3 of Incident Angle Modifier
+
+SOLARCOLLECTORPERFORMANCE:FLATPLATE,
+    Mr. Sun Solar Sol-Reliant AE-40,    !- Name
+    3.7,                      !- Gross Area
+    Water,                    !- Test Fluid
+    3.88e-05,                 !- Test Flow Rate
+    Inlet,                    !- Test Correlation Type
+    0.691,                    !- Coefficient 1 of Efficiency Equation
+    3.4,                      !- Coefficient 2 of Efficiency Equation
+    0,                        !- Coefficient 3 of Efficiency Equation
+    0.19,                     !- Coefficient 2 of Incident Angle Modifier
+    0;                        !- Coefficient 3 of Incident Angle Modifier
+
+SOLARCOLLECTORPERFORMANCE:FLATPLATE,
+    Mr. Sun Solar Sol-Reliant AE-56,    !- Name
+    5.18,                     !- Gross Area
+    Water,                    !- Test Fluid
+    3.88e-05,                 !- Test Flow Rate
+    Inlet,                    !- Test Correlation Type
+    0.691,                    !- Coefficient 1 of Efficiency Equation
+    3.4,                      !- Coefficient 2 of Efficiency Equation
+    0,                        !- Coefficient 3 of Efficiency Equation
+    0.19,                     !- Coefficient 2 of Incident Angle Modifier
+    0;                        !- Coefficient 3 of Incident Angle Modifier
+
+SOLARCOLLECTORPERFORMANCE:FLATPLATE,
+    Mr. Sun Solar Sol-Reliant AE-50,    !- Name
+    4.66,                     !- Gross Area
+    Water,                    !- Test Fluid
+    3.88e-05,                 !- Test Flow Rate
+    Inlet,                    !- Test Correlation Type
+    0.691,                    !- Coefficient 1 of Efficiency Equation
+    3.4,                      !- Coefficient 2 of Efficiency Equation
+    0,                        !- Coefficient 3 of Efficiency Equation
+    0.19,                     !- Coefficient 2 of Incident Angle Modifier
+    0;                        !- Coefficient 3 of Incident Angle Modifier
+
+SOLARCOLLECTORPERFORMANCE:FLATPLATE,
+    Oventrop Corporation OVF-32 540-04-08,    !- Name
+    3.03,                     !- Gross Area
+    Water,                    !- Test Fluid
+    3.88e-05,                 !- Test Flow Rate
+    Inlet,                    !- Test Correlation Type
+    0.691,                    !- Coefficient 1 of Efficiency Equation
+    3.4,                      !- Coefficient 2 of Efficiency Equation
+    0,                        !- Coefficient 3 of Efficiency Equation
+    0.19,                     !- Coefficient 2 of Incident Angle Modifier
+    0;                        !- Coefficient 3 of Incident Angle Modifier
+
+SOLARCOLLECTORPERFORMANCE:FLATPLATE,
+    Oventrop Corporation OVF-40 540 04 10,    !- Name
+    3.92,                     !- Gross Area
+    Water,                    !- Test Fluid
+    3.88e-05,                 !- Test Flow Rate
+    Inlet,                    !- Test Correlation Type
+    0.691,                    !- Coefficient 1 of Efficiency Equation
+    3.4,                      !- Coefficient 2 of Efficiency Equation
+    0,                        !- Coefficient 3 of Efficiency Equation
+    0.19,                     !- Coefficient 2 of Incident Angle Modifier
+    0;                        !- Coefficient 3 of Incident Angle Modifier
+
+SOLARCOLLECTORPERFORMANCE:FLATPLATE,
+    Oventrop Corporation OVF-21 540 03 07,    !- Name
+    2,                        !- Gross Area
+    Water,                    !- Test Fluid
+    3.88e-05,                 !- Test Flow Rate
+    Inlet,                    !- Test Correlation Type
+    0.691,                    !- Coefficient 1 of Efficiency Equation
+    3.4,                      !- Coefficient 2 of Efficiency Equation
+    0,                        !- Coefficient 3 of Efficiency Equation
+    0.19,                     !- Coefficient 2 of Incident Angle Modifier
+    0;                        !- Coefficient 3 of Incident Angle Modifier
+
+SOLARCOLLECTORPERFORMANCE:FLATPLATE,
+    Oventrop Corporation  540 00 18-LI,    !- Name
+    2.04,                     !- Gross Area
+    Water,                    !- Test Fluid
+    4.076e-05,                !- Test Flow Rate
+    Inlet,                    !- Test Correlation Type
+    0.667,                    !- Coefficient 1 of Efficiency Equation
+    4.85,                     !- Coefficient 2 of Efficiency Equation
+    0,                        !- Coefficient 3 of Efficiency Equation
+    0,                        !- Coefficient 2 of Incident Angle Modifier
+    0;                        !- Coefficient 3 of Incident Angle Modifier
+
+SOLARCOLLECTORPERFORMANCE:FLATPLATE,
+    Oventrop Corporation  540 00 18-TT,    !- Name
+    2.04,                     !- Gross Area
+    Water,                    !- Test Fluid
+    4.1e-05,                  !- Test Flow Rate
+    Inlet,                    !- Test Correlation Type
+    0.626,                    !- Coefficient 1 of Efficiency Equation
+    3.71,                     !- Coefficient 2 of Efficiency Equation
+    0,                        !- Coefficient 3 of Efficiency Equation
+    0.34,                     !- Coefficient 2 of Incident Angle Modifier
+    0;                        !- Coefficient 3 of Incident Angle Modifier
+
+SOLARCOLLECTORPERFORMANCE:FLATPLATE,
+    Phoenix Sonnenwarme AG Phoenix Phoenix Infinity 323,    !- Name
+    2.51,                     !- Gross Area
+    Water,                    !- Test Fluid
+    8.33e-05,                 !- Test Flow Rate
+    Inlet,                    !- Test Correlation Type
+    0.71,                     !- Coefficient 1 of Efficiency Equation
+    3.19,                     !- Coefficient 2 of Efficiency Equation
+    0,                        !- Coefficient 3 of Efficiency Equation
+    0.06,                     !- Coefficient 2 of Incident Angle Modifier
+    0;                        !- Coefficient 3 of Incident Angle Modifier
+
+SOLARCOLLECTORPERFORMANCE:FLATPLATE,
+    Power Partners  Inc. Skyline 20-01,    !- Name
+    1.87,                     !- Gross Area
+    Water,                    !- Test Fluid
+    3.16e-05,                 !- Test Flow Rate
+    Inlet,                    !- Test Correlation Type
+    0.605,                    !- Coefficient 1 of Efficiency Equation
+    3.84,                     !- Coefficient 2 of Efficiency Equation
+    0,                        !- Coefficient 3 of Efficiency Equation
+    0.19,                     !- Coefficient 2 of Incident Angle Modifier
+    0;                        !- Coefficient 3 of Incident Angle Modifier
+
+SOLARCOLLECTORPERFORMANCE:FLATPLATE,
+    Power Partners  Inc. Skyline 1-Oct,    !- Name
+    0.93,                     !- Gross Area
+    Water,                    !- Test Fluid
+    3.16e-05,                 !- Test Flow Rate
+    Inlet,                    !- Test Correlation Type
+    0.603,                    !- Coefficient 1 of Efficiency Equation
+    3.87,                     !- Coefficient 2 of Efficiency Equation
+    0,                        !- Coefficient 3 of Efficiency Equation
+    0.19,                     !- Coefficient 2 of Incident Angle Modifier
+    0;                        !- Coefficient 3 of Incident Angle Modifier
+
+SOLARCOLLECTORPERFORMANCE:FLATPLATE,
+    R&R Solar Supply Sunpro Sunpro 32,    !- Name
+    2.92,                     !- Gross Area
+    Water,                    !- Test Fluid
+    3.5e-05,                  !- Test Flow Rate
+    Inlet,                    !- Test Correlation Type
+    0.697,                    !- Coefficient 1 of Efficiency Equation
+    4.83,                     !- Coefficient 2 of Efficiency Equation
+    0,                        !- Coefficient 3 of Efficiency Equation
+    0.13,                     !- Coefficient 2 of Incident Angle Modifier
+    0;                        !- Coefficient 3 of Incident Angle Modifier
+
+SOLARCOLLECTORPERFORMANCE:FLATPLATE,
+    R&R Solar Supply Sunpro Sunpro 24,    !- Name
+    2.17,                     !- Gross Area
+    Water,                    !- Test Fluid
+    3.5e-05,                  !- Test Flow Rate
+    Inlet,                    !- Test Correlation Type
+    0.697,                    !- Coefficient 1 of Efficiency Equation
+    4.83,                     !- Coefficient 2 of Efficiency Equation
+    0,                        !- Coefficient 3 of Efficiency Equation
+    0.13,                     !- Coefficient 2 of Incident Angle Modifier
+    0;                        !- Coefficient 3 of Incident Angle Modifier
+
+SOLARCOLLECTORPERFORMANCE:FLATPLATE,
+    R&R Solar Supply Sunpro Sunpro 40,    !- Name
+    3.64,                     !- Gross Area
+    Water,                    !- Test Fluid
+    3.5e-05,                  !- Test Flow Rate
+    Inlet,                    !- Test Correlation Type
+    0.697,                    !- Coefficient 1 of Efficiency Equation
+    4.83,                     !- Coefficient 2 of Efficiency Equation
+    0,                        !- Coefficient 3 of Efficiency Equation
+    0.13,                     !- Coefficient 2 of Incident Angle Modifier
+    0;                        !- Coefficient 3 of Incident Angle Modifier
+
+SOLARCOLLECTORPERFORMANCE:FLATPLATE,
+    R&R Solar Supply Sunlast 21 EPI-308SS(3'x7'),    !- Name
+    1.9,                      !- Gross Area
+    Water,                    !- Test Fluid
+    3.5e-05,                  !- Test Flow Rate
+    Inlet,                    !- Test Correlation Type
+    0.697,                    !- Coefficient 1 of Efficiency Equation
+    4.83,                     !- Coefficient 2 of Efficiency Equation
+    0,                        !- Coefficient 3 of Efficiency Equation
+    0.13,                     !- Coefficient 2 of Incident Angle Modifier
+    0;                        !- Coefficient 3 of Incident Angle Modifier
+
+SOLARCOLLECTORPERFORMANCE:FLATPLATE,
+    R&R Solar Supply Sunpro Sunpro 21,    !- Name
+    1.9,                      !- Gross Area
+    Water,                    !- Test Fluid
+    3.5e-05,                  !- Test Flow Rate
+    Inlet,                    !- Test Correlation Type
+    0.697,                    !- Coefficient 1 of Efficiency Equation
+    4.83,                     !- Coefficient 2 of Efficiency Equation
+    0,                        !- Coefficient 3 of Efficiency Equation
+    0.13,                     !- Coefficient 2 of Incident Angle Modifier
+    0;                        !- Coefficient 3 of Incident Angle Modifier
+
+SOLARCOLLECTORPERFORMANCE:FLATPLATE,
+    R&R Solar Supply Sunlast 32 EPI-308SS(4'x8'),    !- Name
+    2.92,                     !- Gross Area
+    Water,                    !- Test Fluid
+    3.5e-05,                  !- Test Flow Rate
+    Inlet,                    !- Test Correlation Type
+    0.697,                    !- Coefficient 1 of Efficiency Equation
+    4.83,                     !- Coefficient 2 of Efficiency Equation
+    0,                        !- Coefficient 3 of Efficiency Equation
+    0.13,                     !- Coefficient 2 of Incident Angle Modifier
+    0;                        !- Coefficient 3 of Incident Angle Modifier
+
+SOLARCOLLECTORPERFORMANCE:FLATPLATE,
+    R&R Solar Supply Copper Star 21 EPI-308CU(3'x7'),    !- Name
+    1.9,                      !- Gross Area
+    Water,                    !- Test Fluid
+    3.5e-05,                  !- Test Flow Rate
+    Inlet,                    !- Test Correlation Type
+    0.697,                    !- Coefficient 1 of Efficiency Equation
+    4.83,                     !- Coefficient 2 of Efficiency Equation
+    0,                        !- Coefficient 3 of Efficiency Equation
+    0.13,                     !- Coefficient 2 of Incident Angle Modifier
+    0;                        !- Coefficient 3 of Incident Angle Modifier
+
+SOLARCOLLECTORPERFORMANCE:FLATPLATE,
+    R&R Solar Supply Copper Star 24 EPI-308CU(3'x8'),    !- Name
+    2.17,                     !- Gross Area
+    Water,                    !- Test Fluid
+    3.5e-05,                  !- Test Flow Rate
+    Inlet,                    !- Test Correlation Type
+    0.697,                    !- Coefficient 1 of Efficiency Equation
+    4.83,                     !- Coefficient 2 of Efficiency Equation
+    0,                        !- Coefficient 3 of Efficiency Equation
+    0.13,                     !- Coefficient 2 of Incident Angle Modifier
+    0;                        !- Coefficient 3 of Incident Angle Modifier
+
+SOLARCOLLECTORPERFORMANCE:FLATPLATE,
+    R&R Solar Supply Copper Star 32 EPI-308CU(4'x8'),    !- Name
+    2.92,                     !- Gross Area
+    Water,                    !- Test Fluid
+    3.5e-05,                  !- Test Flow Rate
+    Inlet,                    !- Test Correlation Type
+    0.697,                    !- Coefficient 1 of Efficiency Equation
+    4.83,                     !- Coefficient 2 of Efficiency Equation
+    0,                        !- Coefficient 3 of Efficiency Equation
+    0.13,                     !- Coefficient 2 of Incident Angle Modifier
+    0;                        !- Coefficient 3 of Incident Angle Modifier
+
+SOLARCOLLECTORPERFORMANCE:FLATPLATE,
+    R&R Solar Supply Sunlast 24 EPI-308SS(3'x8'),    !- Name
+    2.17,                     !- Gross Area
+    Water,                    !- Test Fluid
+    3.5e-05,                  !- Test Flow Rate
+    Inlet,                    !- Test Correlation Type
+    0.697,                    !- Coefficient 1 of Efficiency Equation
+    4.83,                     !- Coefficient 2 of Efficiency Equation
+    0,                        !- Coefficient 3 of Efficiency Equation
+    0.13,                     !- Coefficient 2 of Incident Angle Modifier
+    0;                        !- Coefficient 3 of Incident Angle Modifier
+
+SOLARCOLLECTORPERFORMANCE:FLATPLATE,
+    Rheem Water Heaters Rheem RS21-SC,    !- Name
+    1.98,                     !- Gross Area
+    Water,                    !- Test Fluid
+    3.72e-05,                 !- Test Flow Rate
+    Inlet,                    !- Test Correlation Type
+    0.753,                    !- Coefficient 1 of Efficiency Equation
+    5.29,                     !- Coefficient 2 of Efficiency Equation
+    0,                        !- Coefficient 3 of Efficiency Equation
+    -0.14,                    !- Coefficient 2 of Incident Angle Modifier
+    0;                        !- Coefficient 3 of Incident Angle Modifier
+
+SOLARCOLLECTORPERFORMANCE:FLATPLATE,
+    Rheem Water Heaters Rheem RS40-BC,    !- Name
+    3.8,                      !- Gross Area
+    Water,                    !- Test Fluid
+    4.61e-05,                 !- Test Flow Rate
+    Inlet,                    !- Test Correlation Type
+    0.75,                     !- Coefficient 1 of Efficiency Equation
+    3.04,                     !- Coefficient 2 of Efficiency Equation
+    0,                        !- Coefficient 3 of Efficiency Equation
+    0.3,                      !- Coefficient 2 of Incident Angle Modifier
+    0;                        !- Coefficient 3 of Incident Angle Modifier
+
+SOLARCOLLECTORPERFORMANCE:FLATPLATE,
+    Rheem Water Heaters Rheem RS32-BC,    !- Name
+    3.05,                     !- Gross Area
+    Water,                    !- Test Fluid
+    4.61e-05,                 !- Test Flow Rate
+    Inlet,                    !- Test Correlation Type
+    0.745,                    !- Coefficient 1 of Efficiency Equation
+    3.03,                     !- Coefficient 2 of Efficiency Equation
+    0,                        !- Coefficient 3 of Efficiency Equation
+    0.3,                      !- Coefficient 2 of Incident Angle Modifier
+    0;                        !- Coefficient 3 of Incident Angle Modifier
+
+SOLARCOLLECTORPERFORMANCE:FLATPLATE,
+    Rheem Water Heaters Rheem RS21-BP,    !- Name
+    1.98,                     !- Gross Area
+    Water,                    !- Test Fluid
+    3.7e-05,                  !- Test Flow Rate
+    Inlet,                    !- Test Correlation Type
+    0.737,                    !- Coefficient 1 of Efficiency Equation
+    4.42,                     !- Coefficient 2 of Efficiency Equation
+    0,                        !- Coefficient 3 of Efficiency Equation
+    0.14,                     !- Coefficient 2 of Incident Angle Modifier
+    0;                        !- Coefficient 3 of Incident Angle Modifier
+
+SOLARCOLLECTORPERFORMANCE:FLATPLATE,
+    Rheem Water Heaters Rheem RS21-BC,    !- Name
+    1.98,                     !- Gross Area
+    Water,                    !- Test Fluid
+    3.7e-05,                  !- Test Flow Rate
+    Inlet,                    !- Test Correlation Type
+    0.731,                    !- Coefficient 1 of Efficiency Equation
+    3.04,                     !- Coefficient 2 of Efficiency Equation
+    0,                        !- Coefficient 3 of Efficiency Equation
+    0.18,                     !- Coefficient 2 of Incident Angle Modifier
+    0;                        !- Coefficient 3 of Incident Angle Modifier
+
+SOLARCOLLECTORPERFORMANCE:FLATPLATE,
+    Rheem Water Heaters Rheem RS24-BC,    !- Name
+    2.3,                      !- Gross Area
+    Water,                    !- Test Fluid
+    4.61e-05,                 !- Test Flow Rate
+    Inlet,                    !- Test Correlation Type
+    0.728,                    !- Coefficient 1 of Efficiency Equation
+    2.99,                     !- Coefficient 2 of Efficiency Equation
+    0,                        !- Coefficient 3 of Efficiency Equation
+    0.3,                      !- Coefficient 2 of Incident Angle Modifier
+    0;                        !- Coefficient 3 of Incident Angle Modifier
+
+SOLARCOLLECTORPERFORMANCE:FLATPLATE,
+    Rheem Water Heaters Rheem RS40-BP,    !- Name
+    3.8,                      !- Gross Area
+    Water,                    !- Test Fluid
+    7.6e-05,                  !- Test Flow Rate
+    Inlet,                    !- Test Correlation Type
+    0.718,                    !- Coefficient 1 of Efficiency Equation
+    2.29,                     !- Coefficient 2 of Efficiency Equation
+    0,                        !- Coefficient 3 of Efficiency Equation
+    0.32,                     !- Coefficient 2 of Incident Angle Modifier
+    0;                        !- Coefficient 3 of Incident Angle Modifier
+
+SOLARCOLLECTORPERFORMANCE:FLATPLATE,
+    Rheem Water Heaters Rheem RS32-BP,    !- Name
+    3.05,                     !- Gross Area
+    Water,                    !- Test Fluid
+    7.6e-05,                  !- Test Flow Rate
+    Inlet,                    !- Test Correlation Type
+    0.718,                    !- Coefficient 1 of Efficiency Equation
+    2.3,                      !- Coefficient 2 of Efficiency Equation
+    0,                        !- Coefficient 3 of Efficiency Equation
+    0.32,                     !- Coefficient 2 of Incident Angle Modifier
+    0;                        !- Coefficient 3 of Incident Angle Modifier
+
+SOLARCOLLECTORPERFORMANCE:FLATPLATE,
+    Rheem Water Heaters Rheem RS24-BP,    !- Name
+    2.29,                     !- Gross Area
+    Water,                    !- Test Fluid
+    7.6e-05,                  !- Test Flow Rate
+    Inlet,                    !- Test Correlation Type
+    0.702,                    !- Coefficient 1 of Efficiency Equation
+    2.28,                     !- Coefficient 2 of Efficiency Equation
+    0,                        !- Coefficient 3 of Efficiency Equation
+    0.32,                     !- Coefficient 2 of Incident Angle Modifier
+    0;                        !- Coefficient 3 of Incident Angle Modifier
+
+SOLARCOLLECTORPERFORMANCE:FLATPLATE,
+    Roth Industries  Inc. Roth Heliostar 252,    !- Name
+    2.53,                     !- Gross Area
+    Water,                    !- Test Fluid
+    5e-05,                    !- Test Flow Rate
+    Inlet,                    !- Test Correlation Type
+    0.731,                    !- Coefficient 1 of Efficiency Equation
+    3.13,                     !- Coefficient 2 of Efficiency Equation
+    0,                        !- Coefficient 3 of Efficiency Equation
+    0.13,                     !- Coefficient 2 of Incident Angle Modifier
+    0;                        !- Coefficient 3 of Incident Angle Modifier
+
+SOLARCOLLECTORPERFORMANCE:FLATPLATE,
+    Schuco USA L.P. Premium V  H  LA,    !- Name
+    2.7,                      !- Gross Area
+    Water,                    !- Test Fluid
+    5e-05,                    !- Test Flow Rate
+    Inlet,                    !- Test Correlation Type
+    0.708,                    !- Coefficient 1 of Efficiency Equation
+    3.11,                     !- Coefficient 2 of Efficiency Equation
+    0,                        !- Coefficient 3 of Efficiency Equation
+    0.02,                     !- Coefficient 2 of Incident Angle Modifier
+    0;                        !- Coefficient 3 of Incident Angle Modifier
+
+SOLARCOLLECTORPERFORMANCE:FLATPLATE,
+    Schuco USA L.P. Slimline V  LA  Plus,    !- Name
+    2.31,                     !- Gross Area
+    Water,                    !- Test Fluid
+    4.3e-05,                  !- Test Flow Rate
+    Inlet,                    !- Test Correlation Type
+    0.706,                    !- Coefficient 1 of Efficiency Equation
+    2.92,                     !- Coefficient 2 of Efficiency Equation
+    0,                        !- Coefficient 3 of Efficiency Equation
+    0.06,                     !- Coefficient 2 of Incident Angle Modifier
+    0;                        !- Coefficient 3 of Incident Angle Modifier
+
+SOLARCOLLECTORPERFORMANCE:FLATPLATE,
+    Schuco USA L.P. Compact Compact S,    !- Name
+    2.31,                     !- Gross Area
+    Water,                    !- Test Fluid
+    4.3e-05,                  !- Test Flow Rate
+    Inlet,                    !- Test Correlation Type
+    0.706,                    !- Coefficient 1 of Efficiency Equation
+    2.92,                     !- Coefficient 2 of Efficiency Equation
+    0,                        !- Coefficient 3 of Efficiency Equation
+    0.06,                     !- Coefficient 2 of Incident Angle Modifier
+    0;                        !- Coefficient 3 of Incident Angle Modifier
+
+SOLARCOLLECTORPERFORMANCE:FLATPLATE,
+    Sealed Air Corporation  FW-48,    !- Name
+    4.4,                      !- Gross Area
+    Water,                    !- Test Fluid
+    0.000284021,              !- Test Flow Rate
+    Inlet,                    !- Test Correlation Type
+    0.736,                    !- Coefficient 1 of Efficiency Equation
+    9.32,                     !- Coefficient 2 of Efficiency Equation
+    0,                        !- Coefficient 3 of Efficiency Equation
+    0.05,                     !- Coefficient 2 of Incident Angle Modifier
+    0;                        !- Coefficient 3 of Incident Angle Modifier
+
+SOLARCOLLECTORPERFORMANCE:FLATPLATE,
+    Solahart Industries Solahart Bt,    !- Name
+    1.98,                     !- Gross Area
+    Water,                    !- Test Fluid
+    3.72e-05,                 !- Test Flow Rate
+    Inlet,                    !- Test Correlation Type
+    0.753,                    !- Coefficient 1 of Efficiency Equation
+    5.29,                     !- Coefficient 2 of Efficiency Equation
+    0,                        !- Coefficient 3 of Efficiency Equation
+    -0.14,                    !- Coefficient 2 of Incident Angle Modifier
+    0;                        !- Coefficient 3 of Incident Angle Modifier
+
+SOLARCOLLECTORPERFORMANCE:FLATPLATE,
+    Solahart Industries Solahart J,    !- Name
+    1.98,                     !- Gross Area
+    Water,                    !- Test Fluid
+    3.7e-05,                  !- Test Flow Rate
+    Inlet,                    !- Test Correlation Type
+    0.737,                    !- Coefficient 1 of Efficiency Equation
+    4.42,                     !- Coefficient 2 of Efficiency Equation
+    0,                        !- Coefficient 3 of Efficiency Equation
+    0.14,                     !- Coefficient 2 of Incident Angle Modifier
+    0;                        !- Coefficient 3 of Incident Angle Modifier
+
+SOLARCOLLECTORPERFORMANCE:FLATPLATE,
+    Solahart Industries Solahart Kf,    !- Name
+    1.98,                     !- Gross Area
+    Water,                    !- Test Fluid
+    3.7e-05,                  !- Test Flow Rate
+    Inlet,                    !- Test Correlation Type
+    0.731,                    !- Coefficient 1 of Efficiency Equation
+    3.04,                     !- Coefficient 2 of Efficiency Equation
+    0,                        !- Coefficient 3 of Efficiency Equation
+    0.18,                     !- Coefficient 2 of Incident Angle Modifier
+    0;                        !- Coefficient 3 of Incident Angle Modifier
+
+SOLARCOLLECTORPERFORMANCE:FLATPLATE,
+    Solahart Industries Solahart M,    !- Name
+    1.98,                     !- Gross Area
+    Water,                    !- Test Fluid
+    3.7e-05,                  !- Test Flow Rate
+    Inlet,                    !- Test Correlation Type
+    0.621,                    !- Coefficient 1 of Efficiency Equation
+    4.1,                      !- Coefficient 2 of Efficiency Equation
+    0,                        !- Coefficient 3 of Efficiency Equation
+    0.12,                     !- Coefficient 2 of Incident Angle Modifier
+    0;                        !- Coefficient 3 of Incident Angle Modifier
+
+SOLARCOLLECTORPERFORMANCE:FLATPLATE,
+    Solahart Industries Solahart L,    !- Name
+    1.98,                     !- Gross Area
+    Water,                    !- Test Fluid
+    3.7e-05,                  !- Test Flow Rate
+    Inlet,                    !- Test Correlation Type
+    0.608,                    !- Coefficient 1 of Efficiency Equation
+    5.47,                     !- Coefficient 2 of Efficiency Equation
+    0,                        !- Coefficient 3 of Efficiency Equation
+    0.17,                     !- Coefficient 2 of Incident Angle Modifier
+    0;                        !- Coefficient 3 of Incident Angle Modifier
+
+SOLARCOLLECTORPERFORMANCE:FLATPLATE,
+    Solar Coil  LLC Solar Coil (ICS) SC092809BK,    !- Name
+    0.89,                     !- Gross Area
+    Water,                    !- Test Fluid
+    0.0,                      !- Test Flow Rate
+    Inlet,                    !- Test Correlation Type
+    0.6,                      !- Coefficient 1 of Efficiency Equation
+    15,                       !- Coefficient 2 of Efficiency Equation
+    0,                        !- Coefficient 3 of Efficiency Equation
+    0.2,                      !- Coefficient 2 of Incident Angle Modifier
+    0;                        !- Coefficient 3 of Incident Angle Modifier
+
+SOLARCOLLECTORPERFORMANCE:FLATPLATE,
+    Solar Development  Inc. Sunstar Plus SD9-28,    !- Name
+    2.61,                     !- Gross Area
+    Water,                    !- Test Fluid
+    3.333e-05,                !- Test Flow Rate
+    Inlet,                    !- Test Correlation Type
+    0.741,                    !- Coefficient 1 of Efficiency Equation
+    3.02,                     !- Coefficient 2 of Efficiency Equation
+    0,                        !- Coefficient 3 of Efficiency Equation
+    0.11,                     !- Coefficient 2 of Incident Angle Modifier
+    0;                        !- Coefficient 3 of Incident Angle Modifier
+
+SOLARCOLLECTORPERFORMANCE:FLATPLATE,
+    Solar Development  Inc. Solar Development SD8-21,    !- Name
+    1.93,                     !- Gross Area
+    Water,                    !- Test Fluid
+    3.88e-05,                 !- Test Flow Rate
+    Inlet,                    !- Test Correlation Type
+    0.691,                    !- Coefficient 1 of Efficiency Equation
+    3.4,                      !- Coefficient 2 of Efficiency Equation
+    0,                        !- Coefficient 3 of Efficiency Equation
+    0.19,                     !- Coefficient 2 of Incident Angle Modifier
+    0;                        !- Coefficient 3 of Incident Angle Modifier
+
+SOLARCOLLECTORPERFORMANCE:FLATPLATE,
+    Solar Development  Inc. Solar Development SD8-26,    !- Name
+    2.35,                     !- Gross Area
+    Water,                    !- Test Fluid
+    3.88e-05,                 !- Test Flow Rate
+    Inlet,                    !- Test Correlation Type
+    0.691,                    !- Coefficient 1 of Efficiency Equation
+    3.4,                      !- Coefficient 2 of Efficiency Equation
+    0,                        !- Coefficient 3 of Efficiency Equation
+    0.19,                     !- Coefficient 2 of Incident Angle Modifier
+    0;                        !- Coefficient 3 of Incident Angle Modifier
+
+SOLARCOLLECTORPERFORMANCE:FLATPLATE,
+    Solar Development  Inc. Solar Development SD8-28,    !- Name
+    2.6,                      !- Gross Area
+    Water,                    !- Test Fluid
+    3.88e-05,                 !- Test Flow Rate
+    Inlet,                    !- Test Correlation Type
+    0.691,                    !- Coefficient 1 of Efficiency Equation
+    3.4,                      !- Coefficient 2 of Efficiency Equation
+    0,                        !- Coefficient 3 of Efficiency Equation
+    0.19,                     !- Coefficient 2 of Incident Angle Modifier
+    0;                        !- Coefficient 3 of Incident Angle Modifier
+
+SOLARCOLLECTORPERFORMANCE:FLATPLATE,
+    Solar Development  Inc. Solar Development SD8-32,    !- Name
+    2.96,                     !- Gross Area
+    Water,                    !- Test Fluid
+    3.88e-05,                 !- Test Flow Rate
+    Inlet,                    !- Test Correlation Type
+    0.691,                    !- Coefficient 1 of Efficiency Equation
+    3.4,                      !- Coefficient 2 of Efficiency Equation
+    0,                        !- Coefficient 3 of Efficiency Equation
+    0.19,                     !- Coefficient 2 of Incident Angle Modifier
+    0;                        !- Coefficient 3 of Incident Angle Modifier
+
+SOLARCOLLECTORPERFORMANCE:FLATPLATE,
+    Solar Development  Inc. Solar Development SD8-40,    !- Name
+    3.7,                      !- Gross Area
+    Water,                    !- Test Fluid
+    3.88e-05,                 !- Test Flow Rate
+    Inlet,                    !- Test Correlation Type
+    0.691,                    !- Coefficient 1 of Efficiency Equation
+    3.4,                      !- Coefficient 2 of Efficiency Equation
+    0,                        !- Coefficient 3 of Efficiency Equation
+    0.19,                     !- Coefficient 2 of Incident Angle Modifier
+    0;                        !- Coefficient 3 of Incident Angle Modifier
+
+SOLARCOLLECTORPERFORMANCE:FLATPLATE,
+    Solar Skies Mfg  LLC Solar Skies SS-26,    !- Name
+    2.35,                     !- Gross Area
+    Water,                    !- Test Fluid
+    3.88e-05,                 !- Test Flow Rate
+    Inlet,                    !- Test Correlation Type
+    0.691,                    !- Coefficient 1 of Efficiency Equation
+    3.4,                      !- Coefficient 2 of Efficiency Equation
+    0,                        !- Coefficient 3 of Efficiency Equation
+    0.19,                     !- Coefficient 2 of Incident Angle Modifier
+    0;                        !- Coefficient 3 of Incident Angle Modifier
+
+SOLARCOLLECTORPERFORMANCE:FLATPLATE,
+    Solar Skies Mfg  LLC Solar Skies SS-21,    !- Name
+    1.93,                     !- Gross Area
+    Water,                    !- Test Fluid
+    3.88e-05,                 !- Test Flow Rate
+    Inlet,                    !- Test Correlation Type
+    0.691,                    !- Coefficient 1 of Efficiency Equation
+    3.4,                      !- Coefficient 2 of Efficiency Equation
+    0,                        !- Coefficient 3 of Efficiency Equation
+    0.19,                     !- Coefficient 2 of Incident Angle Modifier
+    0;                        !- Coefficient 3 of Incident Angle Modifier
+
+SOLARCOLLECTORPERFORMANCE:FLATPLATE,
+    Solar Skies Mfg  LLC Solar Skies SS-24,    !- Name
+    2.21,                     !- Gross Area
+    Water,                    !- Test Fluid
+    3.88e-05,                 !- Test Flow Rate
+    Inlet,                    !- Test Correlation Type
+    0.691,                    !- Coefficient 1 of Efficiency Equation
+    3.4,                      !- Coefficient 2 of Efficiency Equation
+    0,                        !- Coefficient 3 of Efficiency Equation
+    0.19,                     !- Coefficient 2 of Incident Angle Modifier
+    0;                        !- Coefficient 3 of Incident Angle Modifier
+
+SOLARCOLLECTORPERFORMANCE:FLATPLATE,
+    Solar Skies Mfg  LLC Solar Skies SS-28,    !- Name
+    2.6,                      !- Gross Area
+    Water,                    !- Test Fluid
+    3.88e-05,                 !- Test Flow Rate
+    Inlet,                    !- Test Correlation Type
+    0.691,                    !- Coefficient 1 of Efficiency Equation
+    3.4,                      !- Coefficient 2 of Efficiency Equation
+    0,                        !- Coefficient 3 of Efficiency Equation
+    0.19,                     !- Coefficient 2 of Incident Angle Modifier
+    0;                        !- Coefficient 3 of Incident Angle Modifier
+
+SOLARCOLLECTORPERFORMANCE:FLATPLATE,
+    Solar Skies Mfg  LLC Solar Skies SS-32,    !- Name
+    2.96,                     !- Gross Area
+    Water,                    !- Test Fluid
+    3.88e-05,                 !- Test Flow Rate
+    Inlet,                    !- Test Correlation Type
+    0.691,                    !- Coefficient 1 of Efficiency Equation
+    3.4,                      !- Coefficient 2 of Efficiency Equation
+    0,                        !- Coefficient 3 of Efficiency Equation
+    0.19,                     !- Coefficient 2 of Incident Angle Modifier
+    0;                        !- Coefficient 3 of Incident Angle Modifier
+
+SOLARCOLLECTORPERFORMANCE:FLATPLATE,
+    Solar Skies Mfg  LLC Solar Skies SS-40,    !- Name
+    3.7,                      !- Gross Area
+    Water,                    !- Test Fluid
+    3.88e-05,                 !- Test Flow Rate
+    Inlet,                    !- Test Correlation Type
+    0.691,                    !- Coefficient 1 of Efficiency Equation
+    3.4,                      !- Coefficient 2 of Efficiency Equation
+    0,                        !- Coefficient 3 of Efficiency Equation
+    0.19,                     !- Coefficient 2 of Incident Angle Modifier
+    0;                        !- Coefficient 3 of Incident Angle Modifier
+
+SOLARCOLLECTORPERFORMANCE:FLATPLATE,
+    Solar Skies Mfg  LLC Solar Skies SS-50,    !- Name
+    4.66,                     !- Gross Area
+    Water,                    !- Test Fluid
+    3.88e-05,                 !- Test Flow Rate
+    Inlet,                    !- Test Correlation Type
+    0.691,                    !- Coefficient 1 of Efficiency Equation
+    3.4,                      !- Coefficient 2 of Efficiency Equation
+    0,                        !- Coefficient 3 of Efficiency Equation
+    0.19,                     !- Coefficient 2 of Incident Angle Modifier
+    0;                        !- Coefficient 3 of Incident Angle Modifier
+
+SOLARCOLLECTORPERFORMANCE:FLATPLATE,
+    Solar Skies Mfg  LLC North Star NSC-21,    !- Name
+    2,                        !- Gross Area
+    Water,                    !- Test Fluid
+    3.88e-05,                 !- Test Flow Rate
+    Inlet,                    !- Test Correlation Type
+    0.691,                    !- Coefficient 1 of Efficiency Equation
+    3.4,                      !- Coefficient 2 of Efficiency Equation
+    0,                        !- Coefficient 3 of Efficiency Equation
+    0.19,                     !- Coefficient 2 of Incident Angle Modifier
+    0;                        !- Coefficient 3 of Incident Angle Modifier
+
+SOLARCOLLECTORPERFORMANCE:FLATPLATE,
+    Solar Skies Mfg  LLC North Star NSC-24,    !- Name
+    2.28,                     !- Gross Area
+    Water,                    !- Test Fluid
+    3.88e-05,                 !- Test Flow Rate
+    Inlet,                    !- Test Correlation Type
+    0.691,                    !- Coefficient 1 of Efficiency Equation
+    3.4,                      !- Coefficient 2 of Efficiency Equation
+    0,                        !- Coefficient 3 of Efficiency Equation
+    0.19,                     !- Coefficient 2 of Incident Angle Modifier
+    0;                        !- Coefficient 3 of Incident Angle Modifier
+
+SOLARCOLLECTORPERFORMANCE:FLATPLATE,
+    Solar Skies Mfg  LLC North Star NSC-40,    !- Name
+    3.92,                     !- Gross Area
+    Water,                    !- Test Fluid
+    3.88e-05,                 !- Test Flow Rate
+    Inlet,                    !- Test Correlation Type
+    0.691,                    !- Coefficient 1 of Efficiency Equation
+    3.4,                      !- Coefficient 2 of Efficiency Equation
+    0,                        !- Coefficient 3 of Efficiency Equation
+    0.19,                     !- Coefficient 2 of Incident Angle Modifier
+    0;                        !- Coefficient 3 of Incident Angle Modifier
+
+SOLARCOLLECTORPERFORMANCE:FLATPLATE,
+    Solar Skies Mfg  LLC North Star NSC-32,    !- Name
+    3.03,                     !- Gross Area
+    Water,                    !- Test Fluid
+    3.88e-05,                 !- Test Flow Rate
+    Inlet,                    !- Test Correlation Type
+    0.691,                    !- Coefficient 1 of Efficiency Equation
+    3.4,                      !- Coefficient 2 of Efficiency Equation
+    0,                        !- Coefficient 3 of Efficiency Equation
+    0.19,                     !- Coefficient 2 of Incident Angle Modifier
+    0;                        !- Coefficient 3 of Incident Angle Modifier
+
+SOLARCOLLECTORPERFORMANCE:FLATPLATE,
+    Solar Skies Mfg  LLC North Star NSC-28,    !- Name
+    2.66,                     !- Gross Area
+    Water,                    !- Test Fluid
+    3.88e-05,                 !- Test Flow Rate
+    Inlet,                    !- Test Correlation Type
+    0.691,                    !- Coefficient 1 of Efficiency Equation
+    3.4,                      !- Coefficient 2 of Efficiency Equation
+    0,                        !- Coefficient 3 of Efficiency Equation
+    0.19,                     !- Coefficient 2 of Incident Angle Modifier
+    0;                        !- Coefficient 3 of Incident Angle Modifier
+
+SOLARCOLLECTORPERFORMANCE:FLATPLATE,
+    Solar Skies Mfg  LLC North Star NSC-26,    !- Name
+    2.42,                     !- Gross Area
+    Water,                    !- Test Fluid
+    3.88e-05,                 !- Test Flow Rate
+    Inlet,                    !- Test Correlation Type
+    0.691,                    !- Coefficient 1 of Efficiency Equation
+    3.4,                      !- Coefficient 2 of Efficiency Equation
+    0,                        !- Coefficient 3 of Efficiency Equation
+    0.19,                     !- Coefficient 2 of Incident Angle Modifier
+    0;                        !- Coefficient 3 of Incident Angle Modifier
+
+SOLARCOLLECTORPERFORMANCE:FLATPLATE,
+    Solar Source SunSmart SunSmart-40,    !- Name
+    3.61,                     !- Gross Area
+    Water,                    !- Test Fluid
+    4.47e-05,                 !- Test Flow Rate
+    Inlet,                    !- Test Correlation Type
+    0.784,                    !- Coefficient 1 of Efficiency Equation
+    4.28,                     !- Coefficient 2 of Efficiency Equation
+    0,                        !- Coefficient 3 of Efficiency Equation
+    0.29,                     !- Coefficient 2 of Incident Angle Modifier
+    0;                        !- Coefficient 3 of Incident Angle Modifier
+
+SOLARCOLLECTORPERFORMANCE:FLATPLATE,
+    Solar Source Sunsmart Sunsmart-32,    !- Name
+    2.95,                     !- Gross Area
+    Water,                    !- Test Fluid
+    4.47e-05,                 !- Test Flow Rate
+    Inlet,                    !- Test Correlation Type
+    0.782,                    !- Coefficient 1 of Efficiency Equation
+    4.28,                     !- Coefficient 2 of Efficiency Equation
+    0,                        !- Coefficient 3 of Efficiency Equation
+    0.29,                     !- Coefficient 2 of Incident Angle Modifier
+    0;                        !- Coefficient 3 of Incident Angle Modifier
+
+SOLARCOLLECTORPERFORMANCE:FLATPLATE,
+    Solar Systems  LLC Solar Systems SSA-40,    !- Name
+    3.92,                     !- Gross Area
+    Water,                    !- Test Fluid
+    3.88e-05,                 !- Test Flow Rate
+    Inlet,                    !- Test Correlation Type
+    0.691,                    !- Coefficient 1 of Efficiency Equation
+    3.4,                      !- Coefficient 2 of Efficiency Equation
+    0,                        !- Coefficient 3 of Efficiency Equation
+    0.19,                     !- Coefficient 2 of Incident Angle Modifier
+    0;                        !- Coefficient 3 of Incident Angle Modifier
+
+SOLARCOLLECTORPERFORMANCE:FLATPLATE,
+    Solar Systems  LLC Solar Systems SSA-26,    !- Name
+    2.42,                     !- Gross Area
+    Water,                    !- Test Fluid
+    3.88e-05,                 !- Test Flow Rate
+    Inlet,                    !- Test Correlation Type
+    0.691,                    !- Coefficient 1 of Efficiency Equation
+    3.4,                      !- Coefficient 2 of Efficiency Equation
+    0,                        !- Coefficient 3 of Efficiency Equation
+    0.19,                     !- Coefficient 2 of Incident Angle Modifier
+    0;                        !- Coefficient 3 of Incident Angle Modifier
+
+SOLARCOLLECTORPERFORMANCE:FLATPLATE,
+    Solar Systems  LLC Solar Systems SSA-28,    !- Name
+    2.66,                     !- Gross Area
+    Water,                    !- Test Fluid
+    3.88e-05,                 !- Test Flow Rate
+    Inlet,                    !- Test Correlation Type
+    0.691,                    !- Coefficient 1 of Efficiency Equation
+    3.4,                      !- Coefficient 2 of Efficiency Equation
+    0,                        !- Coefficient 3 of Efficiency Equation
+    0.19,                     !- Coefficient 2 of Incident Angle Modifier
+    0;                        !- Coefficient 3 of Incident Angle Modifier
+
+SOLARCOLLECTORPERFORMANCE:FLATPLATE,
+    Solar Systems  LLC Solar Systems SSA-21,    !- Name
+    2,                        !- Gross Area
+    Water,                    !- Test Fluid
+    3.88e-05,                 !- Test Flow Rate
+    Inlet,                    !- Test Correlation Type
+    0.691,                    !- Coefficient 1 of Efficiency Equation
+    3.4,                      !- Coefficient 2 of Efficiency Equation
+    0,                        !- Coefficient 3 of Efficiency Equation
+    0.19,                     !- Coefficient 2 of Incident Angle Modifier
+    0;                        !- Coefficient 3 of Incident Angle Modifier
+
+SOLARCOLLECTORPERFORMANCE:FLATPLATE,
+    Solar Systems  LLC Solar Systems SSA-32,    !- Name
+    3.03,                     !- Gross Area
+    Water,                    !- Test Fluid
+    3.88e-05,                 !- Test Flow Rate
+    Inlet,                    !- Test Correlation Type
+    0.691,                    !- Coefficient 1 of Efficiency Equation
+    3.4,                      !- Coefficient 2 of Efficiency Equation
+    0,                        !- Coefficient 3 of Efficiency Equation
+    0.19,                     !- Coefficient 2 of Incident Angle Modifier
+    0;                        !- Coefficient 3 of Incident Angle Modifier
+
+SOLARCOLLECTORPERFORMANCE:FLATPLATE,
+    Solarhot Solarhot S-SC-126P40,    !- Name
+    3.66,                     !- Gross Area
+    Water,                    !- Test Fluid
+    4.9e-05,                  !- Test Flow Rate
+    Inlet,                    !- Test Correlation Type
+    0.684,                    !- Coefficient 1 of Efficiency Equation
+    3.33,                     !- Coefficient 2 of Efficiency Equation
+    0,                        !- Coefficient 3 of Efficiency Equation
+    0.2,                      !- Coefficient 2 of Incident Angle Modifier
+    0;                        !- Coefficient 3 of Incident Angle Modifier
+
+SOLARCOLLECTORPERFORMANCE:FLATPLATE,
+    Solarhot Solarhot S-SC-126P32,    !- Name
+    2.97,                     !- Gross Area
+    Water,                    !- Test Fluid
+    4.9e-05,                  !- Test Flow Rate
+    Inlet,                    !- Test Correlation Type
+    0.68,                     !- Coefficient 1 of Efficiency Equation
+    3.32,                     !- Coefficient 2 of Efficiency Equation
+    0,                        !- Coefficient 3 of Efficiency Equation
+    0.2,                      !- Coefficient 2 of Incident Angle Modifier
+    0;                        !- Coefficient 3 of Incident Angle Modifier
+
+SOLARCOLLECTORPERFORMANCE:FLATPLATE,
+    Solarhot Solarhot S-SC-126P26,    !- Name
+    2.45,                     !- Gross Area
+    Water,                    !- Test Fluid
+    4.9e-05,                  !- Test Flow Rate
+    Inlet,                    !- Test Correlation Type
+    0.68,                     !- Coefficient 1 of Efficiency Equation
+    3.32,                     !- Coefficient 2 of Efficiency Equation
+    0,                        !- Coefficient 3 of Efficiency Equation
+    0.2,                      !- Coefficient 2 of Incident Angle Modifier
+    0;                        !- Coefficient 3 of Incident Angle Modifier
+
+SOLARCOLLECTORPERFORMANCE:FLATPLATE,
+    Solarhot Solarhot S-SC-126S40,    !- Name
+    3.66,                     !- Gross Area
+    Water,                    !- Test Fluid
+    4.9e-05,                  !- Test Flow Rate
+    Inlet,                    !- Test Correlation Type
+    0.657,                    !- Coefficient 1 of Efficiency Equation
+    5.27,                     !- Coefficient 2 of Efficiency Equation
+    0,                        !- Coefficient 3 of Efficiency Equation
+    0.15,                     !- Coefficient 2 of Incident Angle Modifier
+    0;                        !- Coefficient 3 of Incident Angle Modifier
+
+SOLARCOLLECTORPERFORMANCE:FLATPLATE,
+    Solarhot Solarhot S-SC-126S32,    !- Name
+    2.97,                     !- Gross Area
+    Water,                    !- Test Fluid
+    4.9e-05,                  !- Test Flow Rate
+    Inlet,                    !- Test Correlation Type
+    0.654,                    !- Coefficient 1 of Efficiency Equation
+    5.25,                     !- Coefficient 2 of Efficiency Equation
+    0,                        !- Coefficient 3 of Efficiency Equation
+    0.15,                     !- Coefficient 2 of Incident Angle Modifier
+    0;                        !- Coefficient 3 of Incident Angle Modifier
+
+SOLARCOLLECTORPERFORMANCE:FLATPLATE,
+    Solarhot Solarhot S-SC-126S26,    !- Name
+    2.45,                     !- Gross Area
+    Water,                    !- Test Fluid
+    4.9e-05,                  !- Test Flow Rate
+    Inlet,                    !- Test Correlation Type
+    0.653,                    !- Coefficient 1 of Efficiency Equation
+    5.25,                     !- Coefficient 2 of Efficiency Equation
+    0,                        !- Coefficient 3 of Efficiency Equation
+    0.15,                     !- Coefficient 2 of Incident Angle Modifier
+    0;                        !- Coefficient 3 of Incident Angle Modifier
+
+SOLARCOLLECTORPERFORMANCE:FLATPLATE,
+    SolarTEK SolarTEK ST40,    !- Name
+    3.61,                     !- Gross Area
+    Water,                    !- Test Fluid
+    4.47e-05,                 !- Test Flow Rate
+    Inlet,                    !- Test Correlation Type
+    0.784,                    !- Coefficient 1 of Efficiency Equation
+    4.28,                     !- Coefficient 2 of Efficiency Equation
+    0,                        !- Coefficient 3 of Efficiency Equation
+    0.29,                     !- Coefficient 2 of Incident Angle Modifier
+    0;                        !- Coefficient 3 of Incident Angle Modifier
+
+SOLARCOLLECTORPERFORMANCE:FLATPLATE,
+    SolarTEK SolarTEK ST32,    !- Name
+    2.95,                     !- Gross Area
+    Water,                    !- Test Fluid
+    4.47e-05,                 !- Test Flow Rate
+    Inlet,                    !- Test Correlation Type
+    0.782,                    !- Coefficient 1 of Efficiency Equation
+    4.28,                     !- Coefficient 2 of Efficiency Equation
+    0,                        !- Coefficient 3 of Efficiency Equation
+    0.29,                     !- Coefficient 2 of Incident Angle Modifier
+    0;                        !- Coefficient 3 of Incident Angle Modifier
+
+SOLARCOLLECTORPERFORMANCE:FLATPLATE,
+    Sole S.A. Climasol Climasol 2.70,    !- Name
+    2.68,                     !- Gross Area
+    Water,                    !- Test Fluid
+    4.61e-05,                 !- Test Flow Rate
+    Inlet,                    !- Test Correlation Type
+    0.636,                    !- Coefficient 1 of Efficiency Equation
+    3.3,                      !- Coefficient 2 of Efficiency Equation
+    0,                        !- Coefficient 3 of Efficiency Equation
+    0.44,                     !- Coefficient 2 of Incident Angle Modifier
+    0;                        !- Coefficient 3 of Incident Angle Modifier
+
+SOLARCOLLECTORPERFORMANCE:FLATPLATE,
+    Sole S.A. Climasol Climasol 2.50,    !- Name
+    2.32,                     !- Gross Area
+    Water,                    !- Test Fluid
+    4.61e-05,                 !- Test Flow Rate
+    Inlet,                    !- Test Correlation Type
+    0.632,                    !- Coefficient 1 of Efficiency Equation
+    3.3,                      !- Coefficient 2 of Efficiency Equation
+    0,                        !- Coefficient 3 of Efficiency Equation
+    0.44,                     !- Coefficient 2 of Incident Angle Modifier
+    0;                        !- Coefficient 3 of Incident Angle Modifier
+
+SOLARCOLLECTORPERFORMANCE:FLATPLATE,
+    Sole S.A. Climasol Climasol 2.00,    !- Name
+    1.92,                     !- Gross Area
+    Water,                    !- Test Fluid
+    4.61e-05,                 !- Test Flow Rate
+    Inlet,                    !- Test Correlation Type
+    0.624,                    !- Coefficient 1 of Efficiency Equation
+    3.3,                      !- Coefficient 2 of Efficiency Equation
+    0,                        !- Coefficient 3 of Efficiency Equation
+    0.44,                     !- Coefficient 2 of Incident Angle Modifier
+    0;                        !- Coefficient 3 of Incident Angle Modifier
+
+SOLARCOLLECTORPERFORMANCE:FLATPLATE,
+    Sole S.A. Climasol Climasol 1.75,    !- Name
+    1.76,                     !- Gross Area
+    Water,                    !- Test Fluid
+    4.61e-05,                 !- Test Flow Rate
+    Inlet,                    !- Test Correlation Type
+    0.623,                    !- Coefficient 1 of Efficiency Equation
+    3.31,                     !- Coefficient 2 of Efficiency Equation
+    0,                        !- Coefficient 3 of Efficiency Equation
+    0.44,                     !- Coefficient 2 of Incident Angle Modifier
+    0;                        !- Coefficient 3 of Incident Angle Modifier
+
+SOLARCOLLECTORPERFORMANCE:FLATPLATE,
+    Solene Solene-Corona SLCO-40,    !- Name
+    3.61,                     !- Gross Area
+    Water,                    !- Test Fluid
+    4.47e-05,                 !- Test Flow Rate
+    Inlet,                    !- Test Correlation Type
+    0.784,                    !- Coefficient 1 of Efficiency Equation
+    4.28,                     !- Coefficient 2 of Efficiency Equation
+    0,                        !- Coefficient 3 of Efficiency Equation
+    0.29,                     !- Coefficient 2 of Incident Angle Modifier
+    0;                        !- Coefficient 3 of Incident Angle Modifier
+
+SOLARCOLLECTORPERFORMANCE:FLATPLATE,
+    Solene Aurora SLAR-40,    !- Name
+    3.61,                     !- Gross Area
+    Water,                    !- Test Fluid
+    4.47e-05,                 !- Test Flow Rate
+    Inlet,                    !- Test Correlation Type
+    0.784,                    !- Coefficient 1 of Efficiency Equation
+    4.28,                     !- Coefficient 2 of Efficiency Equation
+    0,                        !- Coefficient 3 of Efficiency Equation
+    0.29,                     !- Coefficient 2 of Incident Angle Modifier
+    0;                        !- Coefficient 3 of Incident Angle Modifier
+
+SOLARCOLLECTORPERFORMANCE:FLATPLATE,
+    Solene Aurora SLAR-32,    !- Name
+    2.95,                     !- Gross Area
+    Water,                    !- Test Fluid
+    4.47e-05,                 !- Test Flow Rate
+    Inlet,                    !- Test Correlation Type
+    0.782,                    !- Coefficient 1 of Efficiency Equation
+    4.28,                     !- Coefficient 2 of Efficiency Equation
+    0,                        !- Coefficient 3 of Efficiency Equation
+    0.29,                     !- Coefficient 2 of Incident Angle Modifier
+    0;                        !- Coefficient 3 of Incident Angle Modifier
+
+SOLARCOLLECTORPERFORMANCE:FLATPLATE,
+    Solene Solene-Corona SLCO-32,    !- Name
+    2.95,                     !- Gross Area
+    Water,                    !- Test Fluid
+    4.47e-05,                 !- Test Flow Rate
+    Inlet,                    !- Test Correlation Type
+    0.782,                    !- Coefficient 1 of Efficiency Equation
+    4.28,                     !- Coefficient 2 of Efficiency Equation
+    0,                        !- Coefficient 3 of Efficiency Equation
+    0.29,                     !- Coefficient 2 of Incident Angle Modifier
+    0;                        !- Coefficient 3 of Incident Angle Modifier
+
+SOLARCOLLECTORPERFORMANCE:FLATPLATE,
+    Solene Aurora SLAR-30,    !- Name
+    2.28,                     !- Gross Area
+    Water,                    !- Test Fluid
+    4.47e-05,                 !- Test Flow Rate
+    Inlet,                    !- Test Correlation Type
+    0.779,                    !- Coefficient 1 of Efficiency Equation
+    4.28,                     !- Coefficient 2 of Efficiency Equation
+    0,                        !- Coefficient 3 of Efficiency Equation
+    0.29,                     !- Coefficient 2 of Incident Angle Modifier
+    0;                        !- Coefficient 3 of Incident Angle Modifier
+
+SOLARCOLLECTORPERFORMANCE:FLATPLATE,
+    Solene Solene-Corona SLCO-30,    !- Name
+    2.28,                     !- Gross Area
+    Water,                    !- Test Fluid
+    4.47e-05,                 !- Test Flow Rate
+    Inlet,                    !- Test Correlation Type
+    0.779,                    !- Coefficient 1 of Efficiency Equation
+    4.28,                     !- Coefficient 2 of Efficiency Equation
+    0,                        !- Coefficient 3 of Efficiency Equation
+    0.29,                     !- Coefficient 2 of Incident Angle Modifier
+    0;                        !- Coefficient 3 of Incident Angle Modifier
+
+SOLARCOLLECTORPERFORMANCE:FLATPLATE,
+    Solene Solene Chromagen SLCR-32,    !- Name
+    2.97,                     !- Gross Area
+    Water,                    !- Test Fluid
+    5.2e-05,                  !- Test Flow Rate
+    Inlet,                    !- Test Correlation Type
+    0.704,                    !- Coefficient 1 of Efficiency Equation
+    1.8,                      !- Coefficient 2 of Efficiency Equation
+    0,                        !- Coefficient 3 of Efficiency Equation
+    0.2,                      !- Coefficient 2 of Incident Angle Modifier
+    0;                        !- Coefficient 3 of Incident Angle Modifier
+
+SOLARCOLLECTORPERFORMANCE:FLATPLATE,
+    Solene Solene Chromagen SLCR-30,    !- Name
+    2.81,                     !- Gross Area
+    Water,                    !- Test Fluid
+    5.2e-05,                  !- Test Flow Rate
+    Inlet,                    !- Test Correlation Type
+    0.704,                    !- Coefficient 1 of Efficiency Equation
+    1.8,                      !- Coefficient 2 of Efficiency Equation
+    0,                        !- Coefficient 3 of Efficiency Equation
+    0.2,                      !- Coefficient 2 of Incident Angle Modifier
+    0;                        !- Coefficient 3 of Incident Angle Modifier
+
+SOLARCOLLECTORPERFORMANCE:FLATPLATE,
+    Solene Solene Chromagen SLCR-40,    !- Name
+    3.72,                     !- Gross Area
+    Water,                    !- Test Fluid
+    5.2e-05,                  !- Test Flow Rate
+    Inlet,                    !- Test Correlation Type
+    0.704,                    !- Coefficient 1 of Efficiency Equation
+    1.8,                      !- Coefficient 2 of Efficiency Equation
+    0,                        !- Coefficient 3 of Efficiency Equation
+    0.2,                      !- Coefficient 2 of Incident Angle Modifier
+    0;                        !- Coefficient 3 of Incident Angle Modifier
+
+SOLARCOLLECTORPERFORMANCE:FLATPLATE,
+    Solene Aurora SLAR-32P,    !- Name
+    2.95,                     !- Gross Area
+    Water,                    !- Test Fluid
+    5.9e-05,                  !- Test Flow Rate
+    Inlet,                    !- Test Correlation Type
+    0.674,                    !- Coefficient 1 of Efficiency Equation
+    5.52,                     !- Coefficient 2 of Efficiency Equation
+    0,                        !- Coefficient 3 of Efficiency Equation
+    0.26,                     !- Coefficient 2 of Incident Angle Modifier
+    0;                        !- Coefficient 3 of Incident Angle Modifier
+
+SOLARCOLLECTORPERFORMANCE:FLATPLATE,
+    Solene Solene-Corona SLCO-32P,    !- Name
+    2.95,                     !- Gross Area
+    Water,                    !- Test Fluid
+    5.9e-05,                  !- Test Flow Rate
+    Inlet,                    !- Test Correlation Type
+    0.674,                    !- Coefficient 1 of Efficiency Equation
+    5.52,                     !- Coefficient 2 of Efficiency Equation
+    0,                        !- Coefficient 3 of Efficiency Equation
+    0.26,                     !- Coefficient 2 of Incident Angle Modifier
+    0;                        !- Coefficient 3 of Incident Angle Modifier
+
+SOLARCOLLECTORPERFORMANCE:FLATPLATE,
+    Solene Aurora SLAR-40P,    !- Name
+    3.63,                     !- Gross Area
+    Water,                    !- Test Fluid
+    5.9e-05,                  !- Test Flow Rate
+    Inlet,                    !- Test Correlation Type
+    0.667,                    !- Coefficient 1 of Efficiency Equation
+    5.45,                     !- Coefficient 2 of Efficiency Equation
+    0,                        !- Coefficient 3 of Efficiency Equation
+    0.26,                     !- Coefficient 2 of Incident Angle Modifier
+    0;                        !- Coefficient 3 of Incident Angle Modifier
+
+SOLARCOLLECTORPERFORMANCE:FLATPLATE,
+    Solene Solene-Corona SLCO-40P,    !- Name
+    3.63,                     !- Gross Area
+    Water,                    !- Test Fluid
+    5.9e-05,                  !- Test Flow Rate
+    Inlet,                    !- Test Correlation Type
+    0.667,                    !- Coefficient 1 of Efficiency Equation
+    5.45,                     !- Coefficient 2 of Efficiency Equation
+    0,                        !- Coefficient 3 of Efficiency Equation
+    0.26,                     !- Coefficient 2 of Incident Angle Modifier
+    0;                        !- Coefficient 3 of Incident Angle Modifier
+
+SOLARCOLLECTORPERFORMANCE:FLATPLATE,
+    Solimpeks Solar Energy Corp Marvel CLS 2510,    !- Name
+    2.48,                     !- Gross Area
+    Water,                    !- Test Fluid
+    5.05e-05,                 !- Test Flow Rate
+    Inlet,                    !- Test Correlation Type
+    0.688,                    !- Coefficient 1 of Efficiency Equation
+    3.7,                      !- Coefficient 2 of Efficiency Equation
+    0,                        !- Coefficient 3 of Efficiency Equation
+    0.06,                     !- Coefficient 2 of Incident Angle Modifier
+    0;                        !- Coefficient 3 of Incident Angle Modifier
+
+SOLARCOLLECTORPERFORMANCE:FLATPLATE,
+    Solimpeks Solar Energy Corp Marvel CLS 1808,    !- Name
+    1.84,                     !- Gross Area
+    Water,                    !- Test Fluid
+    5.05e-05,                 !- Test Flow Rate
+    Inlet,                    !- Test Correlation Type
+    0.677,                    !- Coefficient 1 of Efficiency Equation
+    3.73,                     !- Coefficient 2 of Efficiency Equation
+    0,                        !- Coefficient 3 of Efficiency Equation
+    0.06,                     !- Coefficient 2 of Incident Angle Modifier
+    0;                        !- Coefficient 3 of Incident Angle Modifier
+
+SOLARCOLLECTORPERFORMANCE:FLATPLATE,
+    Stiebel Eltron Stiebel Eltron SOL 27 Plus,    !- Name
+    2.64,                     !- Gross Area
+    Water,                    !- Test Fluid
+    5.3e-05,                  !- Test Flow Rate
+    Inlet,                    !- Test Correlation Type
+    0.754,                    !- Coefficient 1 of Efficiency Equation
+    2.99,                     !- Coefficient 2 of Efficiency Equation
+    0,                        !- Coefficient 3 of Efficiency Equation
+    0.1,                      !- Coefficient 2 of Incident Angle Modifier
+    0;                        !- Coefficient 3 of Incident Angle Modifier
+
+SOLARCOLLECTORPERFORMANCE:FLATPLATE,
+    Stiebel Eltron Stiebel Eltron Sol 25 Plus,    !- Name
+    2.73,                     !- Gross Area
+    Water,                    !- Test Fluid
+    5.49e-05,                 !- Test Flow Rate
+    Inlet,                    !- Test Correlation Type
+    0.649,                    !- Coefficient 1 of Efficiency Equation
+    3.14,                     !- Coefficient 2 of Efficiency Equation
+    0,                        !- Coefficient 3 of Efficiency Equation
+    0.28,                     !- Coefficient 2 of Incident Angle Modifier
+    0;                        !- Coefficient 3 of Incident Angle Modifier
+
+SOLARCOLLECTORPERFORMANCE:FLATPLATE,
+    SunEarth  Inc. Sunwise SC-40,    !- Name
+    3.8,                      !- Gross Area
+    Water,                    !- Test Fluid
+    4.61e-05,                 !- Test Flow Rate
+    Inlet,                    !- Test Correlation Type
+    0.75,                     !- Coefficient 1 of Efficiency Equation
+    3.04,                     !- Coefficient 2 of Efficiency Equation
+    0,                        !- Coefficient 3 of Efficiency Equation
+    0.3,                      !- Coefficient 2 of Incident Angle Modifier
+    0;                        !- Coefficient 3 of Incident Angle Modifier
+
+SOLARCOLLECTORPERFORMANCE:FLATPLATE,
+    SunEarth  Inc. Imperial IC-40,    !- Name
+    3.8,                      !- Gross Area
+    Water,                    !- Test Fluid
+    4.61e-05,                 !- Test Flow Rate
+    Inlet,                    !- Test Correlation Type
+    0.75,                     !- Coefficient 1 of Efficiency Equation
+    3.04,                     !- Coefficient 2 of Efficiency Equation
+    0,                        !- Coefficient 3 of Efficiency Equation
+    0.3,                      !- Coefficient 2 of Incident Angle Modifier
+    0;                        !- Coefficient 3 of Incident Angle Modifier
+
+SOLARCOLLECTORPERFORMANCE:FLATPLATE,
+    SunEarth  Inc. Empire EC-40,    !- Name
+    3.8,                      !- Gross Area
+    Water,                    !- Test Fluid
+    4.61e-05,                 !- Test Flow Rate
+    Inlet,                    !- Test Correlation Type
+    0.75,                     !- Coefficient 1 of Efficiency Equation
+    3.04,                     !- Coefficient 2 of Efficiency Equation
+    0,                        !- Coefficient 3 of Efficiency Equation
+    0.3,                      !- Coefficient 2 of Incident Angle Modifier
+    0;                        !- Coefficient 3 of Incident Angle Modifier
+
+SOLARCOLLECTORPERFORMANCE:FLATPLATE,
+    SunEarth  Inc. Empire EC-40-1.5,    !- Name
+    3.8,                      !- Gross Area
+    Water,                    !- Test Fluid
+    4.61e-05,                 !- Test Flow Rate
+    Inlet,                    !- Test Correlation Type
+    0.75,                     !- Coefficient 1 of Efficiency Equation
+    3.04,                     !- Coefficient 2 of Efficiency Equation
+    0,                        !- Coefficient 3 of Efficiency Equation
+    0.3,                      !- Coefficient 2 of Incident Angle Modifier
+    0;                        !- Coefficient 3 of Incident Angle Modifier
+
+SOLARCOLLECTORPERFORMANCE:FLATPLATE,
+    SunEarth  Inc. Imperial IC-32,    !- Name
+    3.05,                     !- Gross Area
+    Water,                    !- Test Fluid
+    4.61e-05,                 !- Test Flow Rate
+    Inlet,                    !- Test Correlation Type
+    0.745,                    !- Coefficient 1 of Efficiency Equation
+    3.03,                     !- Coefficient 2 of Efficiency Equation
+    0,                        !- Coefficient 3 of Efficiency Equation
+    0.3,                      !- Coefficient 2 of Incident Angle Modifier
+    0;                        !- Coefficient 3 of Incident Angle Modifier
+
+SOLARCOLLECTORPERFORMANCE:FLATPLATE,
+    SunEarth  Inc. Empire EC-32,    !- Name
+    3.05,                     !- Gross Area
+    Water,                    !- Test Fluid
+    4.61e-05,                 !- Test Flow Rate
+    Inlet,                    !- Test Correlation Type
+    0.745,                    !- Coefficient 1 of Efficiency Equation
+    3.03,                     !- Coefficient 2 of Efficiency Equation
+    0,                        !- Coefficient 3 of Efficiency Equation
+    0.3,                      !- Coefficient 2 of Incident Angle Modifier
+    0;                        !- Coefficient 3 of Incident Angle Modifier
+
+SOLARCOLLECTORPERFORMANCE:FLATPLATE,
+    SunEarth  Inc. Empire EC-32-1.5,    !- Name
+    3.05,                     !- Gross Area
+    Water,                    !- Test Fluid
+    4.61e-05,                 !- Test Flow Rate
+    Inlet,                    !- Test Correlation Type
+    0.745,                    !- Coefficient 1 of Efficiency Equation
+    3.03,                     !- Coefficient 2 of Efficiency Equation
+    0,                        !- Coefficient 3 of Efficiency Equation
+    0.3,                      !- Coefficient 2 of Incident Angle Modifier
+    0;                        !- Coefficient 3 of Incident Angle Modifier
+
+SOLARCOLLECTORPERFORMANCE:FLATPLATE,
+    SunEarth  Inc. Sunwise SC-32,    !- Name
+    3.05,                     !- Gross Area
+    Water,                    !- Test Fluid
+    4.61e-05,                 !- Test Flow Rate
+    Inlet,                    !- Test Correlation Type
+    0.745,                    !- Coefficient 1 of Efficiency Equation
+    3.03,                     !- Coefficient 2 of Efficiency Equation
+    0,                        !- Coefficient 3 of Efficiency Equation
+    0.3,                      !- Coefficient 2 of Incident Angle Modifier
+    0;                        !- Coefficient 3 of Incident Angle Modifier
+
+SOLARCOLLECTORPERFORMANCE:FLATPLATE,
+    SunEarth  Inc. Imperial IC-24,    !- Name
+    2.3,                      !- Gross Area
+    Water,                    !- Test Fluid
+    4.61e-05,                 !- Test Flow Rate
+    Inlet,                    !- Test Correlation Type
+    0.728,                    !- Coefficient 1 of Efficiency Equation
+    2.99,                     !- Coefficient 2 of Efficiency Equation
+    0,                        !- Coefficient 3 of Efficiency Equation
+    0.3,                      !- Coefficient 2 of Incident Angle Modifier
+    0;                        !- Coefficient 3 of Incident Angle Modifier
+
+SOLARCOLLECTORPERFORMANCE:FLATPLATE,
+    SunEarth  Inc. Empire EC-24,    !- Name
+    2.3,                      !- Gross Area
+    Water,                    !- Test Fluid
+    4.61e-05,                 !- Test Flow Rate
+    Inlet,                    !- Test Correlation Type
+    0.728,                    !- Coefficient 1 of Efficiency Equation
+    2.99,                     !- Coefficient 2 of Efficiency Equation
+    0,                        !- Coefficient 3 of Efficiency Equation
+    0.3,                      !- Coefficient 2 of Incident Angle Modifier
+    0;                        !- Coefficient 3 of Incident Angle Modifier
+
+SOLARCOLLECTORPERFORMANCE:FLATPLATE,
+    SunEarth  Inc. Sunwise SC-24,    !- Name
+    2.3,                      !- Gross Area
+    Water,                    !- Test Fluid
+    4.61e-05,                 !- Test Flow Rate
+    Inlet,                    !- Test Correlation Type
+    0.728,                    !- Coefficient 1 of Efficiency Equation
+    2.99,                     !- Coefficient 2 of Efficiency Equation
+    0,                        !- Coefficient 3 of Efficiency Equation
+    0.3,                      !- Coefficient 2 of Incident Angle Modifier
+    0;                        !- Coefficient 3 of Incident Angle Modifier
+
+SOLARCOLLECTORPERFORMANCE:FLATPLATE,
+    SunEarth  Inc. Empire EC-21,    !- Name
+    1.97,                     !- Gross Area
+    Water,                    !- Test Fluid
+    4.61e-05,                 !- Test Flow Rate
+    Inlet,                    !- Test Correlation Type
+    0.727,                    !- Coefficient 1 of Efficiency Equation
+    2.99,                     !- Coefficient 2 of Efficiency Equation
+    0,                        !- Coefficient 3 of Efficiency Equation
+    0.3,                      !- Coefficient 2 of Incident Angle Modifier
+    0;                        !- Coefficient 3 of Incident Angle Modifier
+
+SOLARCOLLECTORPERFORMANCE:FLATPLATE,
+    SunEarth  Inc. Sunwise SP-32,    !- Name
+    3.05,                     !- Gross Area
+    Water,                    !- Test Fluid
+    7.6e-05,                  !- Test Flow Rate
+    Inlet,                    !- Test Correlation Type
+    0.718,                    !- Coefficient 1 of Efficiency Equation
+    2.3,                      !- Coefficient 2 of Efficiency Equation
+    0,                        !- Coefficient 3 of Efficiency Equation
+    0.32,                     !- Coefficient 2 of Incident Angle Modifier
+    0;                        !- Coefficient 3 of Incident Angle Modifier
+
+SOLARCOLLECTORPERFORMANCE:FLATPLATE,
+    SunEarth  Inc. Sunwise SP-40,    !- Name
+    3.8,                      !- Gross Area
+    Water,                    !- Test Fluid
+    7.6e-05,                  !- Test Flow Rate
+    Inlet,                    !- Test Correlation Type
+    0.718,                    !- Coefficient 1 of Efficiency Equation
+    2.29,                     !- Coefficient 2 of Efficiency Equation
+    0,                        !- Coefficient 3 of Efficiency Equation
+    0.32,                     !- Coefficient 2 of Incident Angle Modifier
+    0;                        !- Coefficient 3 of Incident Angle Modifier
+
+SOLARCOLLECTORPERFORMANCE:FLATPLATE,
+    SunEarth  Inc. Empire EP-40,    !- Name
+    3.8,                      !- Gross Area
+    Water,                    !- Test Fluid
+    7.6e-05,                  !- Test Flow Rate
+    Inlet,                    !- Test Correlation Type
+    0.718,                    !- Coefficient 1 of Efficiency Equation
+    2.29,                     !- Coefficient 2 of Efficiency Equation
+    0,                        !- Coefficient 3 of Efficiency Equation
+    0.32,                     !- Coefficient 2 of Incident Angle Modifier
+    0;                        !- Coefficient 3 of Incident Angle Modifier
+
+SOLARCOLLECTORPERFORMANCE:FLATPLATE,
+    SunEarth  Inc. Empire EP-32,    !- Name
+    3.05,                     !- Gross Area
+    Water,                    !- Test Fluid
+    7.6e-05,                  !- Test Flow Rate
+    Inlet,                    !- Test Correlation Type
+    0.718,                    !- Coefficient 1 of Efficiency Equation
+    2.3,                      !- Coefficient 2 of Efficiency Equation
+    0,                        !- Coefficient 3 of Efficiency Equation
+    0.32,                     !- Coefficient 2 of Incident Angle Modifier
+    0;                        !- Coefficient 3 of Incident Angle Modifier
+
+SOLARCOLLECTORPERFORMANCE:FLATPLATE,
+    SunEarth  Inc. Empire EP-32-1.5,    !- Name
+    3.05,                     !- Gross Area
+    Water,                    !- Test Fluid
+    7.6e-05,                  !- Test Flow Rate
+    Inlet,                    !- Test Correlation Type
+    0.718,                    !- Coefficient 1 of Efficiency Equation
+    2.3,                      !- Coefficient 2 of Efficiency Equation
+    0,                        !- Coefficient 3 of Efficiency Equation
+    0.32,                     !- Coefficient 2 of Incident Angle Modifier
+    0;                        !- Coefficient 3 of Incident Angle Modifier
+
+SOLARCOLLECTORPERFORMANCE:FLATPLATE,
+    SunEarth  Inc. Empire EP-40-1.5,    !- Name
+    3.8,                      !- Gross Area
+    Water,                    !- Test Fluid
+    7.6e-05,                  !- Test Flow Rate
+    Inlet,                    !- Test Correlation Type
+    0.718,                    !- Coefficient 1 of Efficiency Equation
+    2.29,                     !- Coefficient 2 of Efficiency Equation
+    0,                        !- Coefficient 3 of Efficiency Equation
+    0.32,                     !- Coefficient 2 of Incident Angle Modifier
+    0;                        !- Coefficient 3 of Incident Angle Modifier
+
+SOLARCOLLECTORPERFORMANCE:FLATPLATE,
+    SunEarth  Inc. Imperial IP-40,    !- Name
+    3.81,                     !- Gross Area
+    Water,                    !- Test Fluid
+    7.6e-05,                  !- Test Flow Rate
+    Inlet,                    !- Test Correlation Type
+    0.715,                    !- Coefficient 1 of Efficiency Equation
+    2.28,                     !- Coefficient 2 of Efficiency Equation
+    0,                        !- Coefficient 3 of Efficiency Equation
+    0.32,                     !- Coefficient 2 of Incident Angle Modifier
+    0;                        !- Coefficient 3 of Incident Angle Modifier
+
+SOLARCOLLECTORPERFORMANCE:FLATPLATE,
+    SunEarth  Inc. Imperial IP-32,    !- Name
+    3.06,                     !- Gross Area
+    Water,                    !- Test Fluid
+    7.6e-05,                  !- Test Flow Rate
+    Inlet,                    !- Test Correlation Type
+    0.71,                     !- Coefficient 1 of Efficiency Equation
+    2.27,                     !- Coefficient 2 of Efficiency Equation
+    0,                        !- Coefficient 3 of Efficiency Equation
+    0.32,                     !- Coefficient 2 of Incident Angle Modifier
+    0;                        !- Coefficient 3 of Incident Angle Modifier
+
+SOLARCOLLECTORPERFORMANCE:FLATPLATE,
+    SunEarth  Inc. Sunwise SP-24,    !- Name
+    2.29,                     !- Gross Area
+    Water,                    !- Test Fluid
+    7.6e-05,                  !- Test Flow Rate
+    Inlet,                    !- Test Correlation Type
+    0.702,                    !- Coefficient 1 of Efficiency Equation
+    2.28,                     !- Coefficient 2 of Efficiency Equation
+    0,                        !- Coefficient 3 of Efficiency Equation
+    0.32,                     !- Coefficient 2 of Incident Angle Modifier
+    0;                        !- Coefficient 3 of Incident Angle Modifier
+
+SOLARCOLLECTORPERFORMANCE:FLATPLATE,
+    SunEarth  Inc. Empire EP-24,    !- Name
+    2.29,                     !- Gross Area
+    Water,                    !- Test Fluid
+    7.6e-05,                  !- Test Flow Rate
+    Inlet,                    !- Test Correlation Type
+    0.702,                    !- Coefficient 1 of Efficiency Equation
+    2.28,                     !- Coefficient 2 of Efficiency Equation
+    0,                        !- Coefficient 3 of Efficiency Equation
+    0.32,                     !- Coefficient 2 of Incident Angle Modifier
+    0;                        !- Coefficient 3 of Incident Angle Modifier
+
+SOLARCOLLECTORPERFORMANCE:FLATPLATE,
+    SunEarth  Inc. Empire EP-21,    !- Name
+    1.96,                     !- Gross Area
+    Water,                    !- Test Fluid
+    7.6e-05,                  !- Test Flow Rate
+    Inlet,                    !- Test Correlation Type
+    0.701,                    !- Coefficient 1 of Efficiency Equation
+    2.28,                     !- Coefficient 2 of Efficiency Equation
+    0,                        !- Coefficient 3 of Efficiency Equation
+    0.32,                     !- Coefficient 2 of Incident Angle Modifier
+    0;                        !- Coefficient 3 of Incident Angle Modifier
+
+SOLARCOLLECTORPERFORMANCE:FLATPLATE,
+    SunEarth  Inc. Imperial IP-24,    !- Name
+    2.3,                      !- Gross Area
+    Water,                    !- Test Fluid
+    7.6e-05,                  !- Test Flow Rate
+    Inlet,                    !- Test Correlation Type
+    0.693,                    !- Coefficient 1 of Efficiency Equation
+    2.25,                     !- Coefficient 2 of Efficiency Equation
+    0,                        !- Coefficient 3 of Efficiency Equation
+    0.32,                     !- Coefficient 2 of Incident Angle Modifier
+    0;                        !- Coefficient 3 of Incident Angle Modifier
+
+SOLARCOLLECTORPERFORMANCE:FLATPLATE,
+    SunEarth  Inc. SunBelt SB-40-0.75,    !- Name
+    3.8,                      !- Gross Area
+    Water,                    !- Test Fluid
+    6.098e-05,                !- Test Flow Rate
+    Inlet,                    !- Test Correlation Type
+    0.673,                    !- Coefficient 1 of Efficiency Equation
+    5.66,                     !- Coefficient 2 of Efficiency Equation
+    0,                        !- Coefficient 3 of Efficiency Equation
+    0.05,                     !- Coefficient 2 of Incident Angle Modifier
+    0;                        !- Coefficient 3 of Incident Angle Modifier
+
+SOLARCOLLECTORPERFORMANCE:FLATPLATE,
+    SunEarth  Inc. SunBelt SB-32-0.75,    !- Name
+    3.06,                     !- Gross Area
+    Water,                    !- Test Fluid
+    6.098e-05,                !- Test Flow Rate
+    Inlet,                    !- Test Correlation Type
+    0.665,                    !- Coefficient 1 of Efficiency Equation
+    5.6,                      !- Coefficient 2 of Efficiency Equation
+    0,                        !- Coefficient 3 of Efficiency Equation
+    0.05,                     !- Coefficient 2 of Incident Angle Modifier
+    0;                        !- Coefficient 3 of Incident Angle Modifier
+
+SOLARCOLLECTORPERFORMANCE:FLATPLATE,
+    SunEarth  Inc. SunBelt SB-24-0.75,    !- Name
+    2.29,                     !- Gross Area
+    Water,                    !- Test Fluid
+    6.098e-05,                !- Test Flow Rate
+    Inlet,                    !- Test Correlation Type
+    0.653,                    !- Coefficient 1 of Efficiency Equation
+    5.52,                     !- Coefficient 2 of Efficiency Equation
+    0,                        !- Coefficient 3 of Efficiency Equation
+    0.05,                     !- Coefficient 2 of Incident Angle Modifier
+    0;                        !- Coefficient 3 of Incident Angle Modifier
+
+SOLARCOLLECTORPERFORMANCE:FLATPLATE,
+    SunMaxx Solar SunMaxx TitanPowerPlus-SU2,    !- Name
+    1.99,                     !- Gross Area
+    Water,                    !- Test Fluid
+    4.44e-05,                 !- Test Flow Rate
+    Inlet,                    !- Test Correlation Type
+    0.74,                     !- Coefficient 1 of Efficiency Equation
+    3.79,                     !- Coefficient 2 of Efficiency Equation
+    0,                        !- Coefficient 3 of Efficiency Equation
+    0.05,                     !- Coefficient 2 of Incident Angle Modifier
+    0;                        !- Coefficient 3 of Incident Angle Modifier
+
+SOLARCOLLECTORPERFORMANCE:FLATPLATE,
+    SunMaxx Solar SunMaxx TitanPower-AL2,    !- Name
+    2.18,                     !- Gross Area
+    Water,                    !- Test Fluid
+    4.4e-05,                  !- Test Flow Rate
+    Inlet,                    !- Test Correlation Type
+    0.702,                    !- Coefficient 1 of Efficiency Equation
+    3.64,                     !- Coefficient 2 of Efficiency Equation
+    0,                        !- Coefficient 3 of Efficiency Equation
+    0.17,                     !- Coefficient 2 of Incident Angle Modifier
+    0;                        !- Coefficient 3 of Incident Angle Modifier
+
+SOLARCOLLECTORPERFORMANCE:FLATPLATE,
+    SunMaxx Solar SunMaxx TitanPower-AL2DH,    !- Name
+    2.18,                     !- Gross Area
+    Water,                    !- Test Fluid
+    4.4e-05,                  !- Test Flow Rate
+    Inlet,                    !- Test Correlation Type
+    0.702,                    !- Coefficient 1 of Efficiency Equation
+    3.64,                     !- Coefficient 2 of Efficiency Equation
+    0,                        !- Coefficient 3 of Efficiency Equation
+    0.17,                     !- Coefficient 2 of Incident Angle Modifier
+    0;                        !- Coefficient 3 of Incident Angle Modifier
+
+SOLARCOLLECTORPERFORMANCE:FLATPLATE,
+    Sunward LLC Micro-Flo S32A,    !- Name
+    2.98,                     !- Gross Area
+    Water,                    !- Test Fluid
+    2.024e-05,                !- Test Flow Rate
+    Inlet,                    !- Test Correlation Type
+    0.685,                    !- Coefficient 1 of Efficiency Equation
+    3.76,                     !- Coefficient 2 of Efficiency Equation
+    0,                        !- Coefficient 3 of Efficiency Equation
+    0.34,                     !- Coefficient 2 of Incident Angle Modifier
+    0;                        !- Coefficient 3 of Incident Angle Modifier
+
+SOLARCOLLECTORPERFORMANCE:FLATPLATE,
+    Synergy Solar Synergy TC-26.52,    !- Name
+    2.48,                     !- Gross Area
+    Water,                    !- Test Fluid
+    5.05e-05,                 !- Test Flow Rate
+    Inlet,                    !- Test Correlation Type
+    0.688,                    !- Coefficient 1 of Efficiency Equation
+    3.7,                      !- Coefficient 2 of Efficiency Equation
+    0,                        !- Coefficient 3 of Efficiency Equation
+    0.06,                     !- Coefficient 2 of Incident Angle Modifier
+    0;                        !- Coefficient 3 of Incident Angle Modifier
+
+SOLARCOLLECTORPERFORMANCE:FLATPLATE,
+    Synergy Solar Synergy TC-19.78,    !- Name
+    1.84,                     !- Gross Area
+    Water,                    !- Test Fluid
+    5.05e-05,                 !- Test Flow Rate
+    Inlet,                    !- Test Correlation Type
+    0.677,                    !- Coefficient 1 of Efficiency Equation
+    3.73,                     !- Coefficient 2 of Efficiency Equation
+    0,                        !- Coefficient 3 of Efficiency Equation
+    0.06,                     !- Coefficient 2 of Incident Angle Modifier
+    0;                        !- Coefficient 3 of Incident Angle Modifier
+
+SOLARCOLLECTORPERFORMANCE:FLATPLATE,
+    Synergy Solar Synergy T19.78,    !- Name
+    1.85,                     !- Gross Area
+    Water,                    !- Test Fluid
+    3.27e-05,                 !- Test Flow Rate
+    Inlet,                    !- Test Correlation Type
+    0.633,                    !- Coefficient 1 of Efficiency Equation
+    3.24,                     !- Coefficient 2 of Efficiency Equation
+    0,                        !- Coefficient 3 of Efficiency Equation
+    0.03,                     !- Coefficient 2 of Incident Angle Modifier
+    0;                        !- Coefficient 3 of Incident Angle Modifier
+
+SOLARCOLLECTORPERFORMANCE:FLATPLATE,
+    Synergy Solar Synergy T26.68,    !- Name
+    2.48,                     !- Gross Area
+    Water,                    !- Test Fluid
+    3.27e-05,                 !- Test Flow Rate
+    Inlet,                    !- Test Correlation Type
+    0.633,                    !- Coefficient 1 of Efficiency Equation
+    3.24,                     !- Coefficient 2 of Efficiency Equation
+    0,                        !- Coefficient 3 of Efficiency Equation
+    0.03,                     !- Coefficient 2 of Incident Angle Modifier
+    0;                        !- Coefficient 3 of Incident Angle Modifier
+
+SOLARCOLLECTORPERFORMANCE:FLATPLATE,
+    Synergy Solar Synergy S19.78,    !- Name
+    1.85,                     !- Gross Area
+    Water,                    !- Test Fluid
+    3.27e-05,                 !- Test Flow Rate
+    Inlet,                    !- Test Correlation Type
+    0.612,                    !- Coefficient 1 of Efficiency Equation
+    4.33,                     !- Coefficient 2 of Efficiency Equation
+    0,                        !- Coefficient 3 of Efficiency Equation
+    0.05,                     !- Coefficient 2 of Incident Angle Modifier
+    0;                        !- Coefficient 3 of Incident Angle Modifier
+
+SOLARCOLLECTORPERFORMANCE:FLATPLATE,
+    Synergy Solar Synergy S26.68,    !- Name
+    2.48,                     !- Gross Area
+    Water,                    !- Test Fluid
+    3.27e-05,                 !- Test Flow Rate
+    Inlet,                    !- Test Correlation Type
+    0.612,                    !- Coefficient 1 of Efficiency Equation
+    4.33,                     !- Coefficient 2 of Efficiency Equation
+    0,                        !- Coefficient 3 of Efficiency Equation
+    0.05,                     !- Coefficient 2 of Incident Angle Modifier
+    0;                        !- Coefficient 3 of Incident Angle Modifier
+
+SOLARCOLLECTORPERFORMANCE:FLATPLATE,
+    Thermal Conversion Technology  Inc. (TCT Solar) ProPlate FF 40,    !- Name
+    3.81,                     !- Gross Area
+    Water,                    !- Test Fluid
+    7.6e-05,                  !- Test Flow Rate
+    Inlet,                    !- Test Correlation Type
+    0.715,                    !- Coefficient 1 of Efficiency Equation
+    2.28,                     !- Coefficient 2 of Efficiency Equation
+    0,                        !- Coefficient 3 of Efficiency Equation
+    0.32,                     !- Coefficient 2 of Incident Angle Modifier
+    0;                        !- Coefficient 3 of Incident Angle Modifier
+
+SOLARCOLLECTORPERFORMANCE:FLATPLATE,
+    Thermal Conversion Technology  Inc. (TCT Solar) ProPlate FF 32,    !- Name
+    3.06,                     !- Gross Area
+    Water,                    !- Test Fluid
+    7.6e-05,                  !- Test Flow Rate
+    Inlet,                    !- Test Correlation Type
+    0.71,                     !- Coefficient 1 of Efficiency Equation
+    2.27,                     !- Coefficient 2 of Efficiency Equation
+    0,                        !- Coefficient 3 of Efficiency Equation
+    0.32,                     !- Coefficient 2 of Incident Angle Modifier
+    0;                        !- Coefficient 3 of Incident Angle Modifier
+
+SOLARCOLLECTORPERFORMANCE:FLATPLATE,
+    Thermal Conversion Technology  Inc. (TCT Solar) ProPlate FF 24,    !- Name
+    2.3,                      !- Gross Area
+    Water,                    !- Test Fluid
+    7.6e-05,                  !- Test Flow Rate
+    Inlet,                    !- Test Correlation Type
+    0.693,                    !- Coefficient 1 of Efficiency Equation
+    2.25,                     !- Coefficient 2 of Efficiency Equation
+    0,                        !- Coefficient 3 of Efficiency Equation
+    0.32,                     !- Coefficient 2 of Incident Angle Modifier
+    0;                        !- Coefficient 3 of Incident Angle Modifier
+
+SOLARCOLLECTORPERFORMANCE:FLATPLATE,
+    Thermo Dynamics  Ltd. Thermo Dynamics G Series G32-P,    !- Name
+    2.98,                     !- Gross Area
+    Water,                    !- Test Fluid
+    5.96e-05,                 !- Test Flow Rate
+    Inlet,                    !- Test Correlation Type
+    0.689,                    !- Coefficient 1 of Efficiency Equation
+    3.85,                     !- Coefficient 2 of Efficiency Equation
+    0,                        !- Coefficient 3 of Efficiency Equation
+    0.49,                     !- Coefficient 2 of Incident Angle Modifier
+    0;                        !- Coefficient 3 of Incident Angle Modifier
+
+SOLARCOLLECTORPERFORMANCE:FLATPLATE,
+    Thermo Dynamics  Ltd. Micro-Flo S32-P,    !- Name
+    2.98,                     !- Gross Area
+    Water,                    !- Test Fluid
+    2.024e-05,                !- Test Flow Rate
+    Inlet,                    !- Test Correlation Type
+    0.685,                    !- Coefficient 1 of Efficiency Equation
+    3.76,                     !- Coefficient 2 of Efficiency Equation
+    0,                        !- Coefficient 3 of Efficiency Equation
+    0.34,                     !- Coefficient 2 of Incident Angle Modifier
+    0;                        !- Coefficient 3 of Incident Angle Modifier
+
+SOLARCOLLECTORPERFORMANCE:FLATPLATE,
+    TiSUN LLC TiSUN FM-W S 4,    !- Name
+    2.55,                     !- Gross Area
+    Water,                    !- Test Fluid
+    5.1e-05,                  !- Test Flow Rate
+    Inlet,                    !- Test Correlation Type
+    0.733,                    !- Coefficient 1 of Efficiency Equation
+    3.39,                     !- Coefficient 2 of Efficiency Equation
+    0,                        !- Coefficient 3 of Efficiency Equation
+    0.17,                     !- Coefficient 2 of Incident Angle Modifier
+    0;                        !- Coefficient 3 of Incident Angle Modifier
+
+SOLARCOLLECTORPERFORMANCE:FLATPLATE,
+    TiSUN LLC TiSUN FA 2 5,    !- Name
+    10.1,                     !- Gross Area
+    Water,                    !- Test Fluid
+    1.61e-05,                 !- Test Flow Rate
+    Inlet,                    !- Test Correlation Type
+    0.732,                    !- Coefficient 1 of Efficiency Equation
+    3.36,                     !- Coefficient 2 of Efficiency Equation
+    0,                        !- Coefficient 3 of Efficiency Equation
+    0,                        !- Coefficient 2 of Incident Angle Modifier
+    0;                        !- Coefficient 3 of Incident Angle Modifier
+
+SOLARCOLLECTORPERFORMANCE:FLATPLATE,
+    TiSUN LLC TiSUN FA 2 6,    !- Name
+    12.1,                     !- Gross Area
+    Water,                    !- Test Fluid
+    1.61e-05,                 !- Test Flow Rate
+    Inlet,                    !- Test Correlation Type
+    0.731,                    !- Coefficient 1 of Efficiency Equation
+    3.35,                     !- Coefficient 2 of Efficiency Equation
+    0,                        !- Coefficient 3 of Efficiency Equation
+    0,                        !- Coefficient 2 of Incident Angle Modifier
+    0;                        !- Coefficient 3 of Incident Angle Modifier
+
+SOLARCOLLECTORPERFORMANCE:FLATPLATE,
+    TiSUN LLC TiSUN FA 2 3,    !- Name
+    6.1,                      !- Gross Area
+    Water,                    !- Test Fluid
+    1.61e-05,                 !- Test Flow Rate
+    Inlet,                    !- Test Correlation Type
+    0.726,                    !- Coefficient 1 of Efficiency Equation
+    3.34,                     !- Coefficient 2 of Efficiency Equation
+    0,                        !- Coefficient 3 of Efficiency Equation
+    0,                        !- Coefficient 2 of Incident Angle Modifier
+    0;                        !- Coefficient 3 of Incident Angle Modifier
+
+SOLARCOLLECTORPERFORMANCE:FLATPLATE,
+    TiSUN LLC TiSUN FA 2 4,    !- Name
+    8.08,                     !- Gross Area
+    Water,                    !- Test Fluid
+    1.61e-05,                 !- Test Flow Rate
+    Inlet,                    !- Test Correlation Type
+    0.708,                    !- Coefficient 1 of Efficiency Equation
+    3.25,                     !- Coefficient 2 of Efficiency Equation
+    0,                        !- Coefficient 3 of Efficiency Equation
+    0,                        !- Coefficient 2 of Incident Angle Modifier
+    0;                        !- Coefficient 3 of Incident Angle Modifier
+
+SOLARCOLLECTORPERFORMANCE:FLATPLATE,
+    UMA Solar Heliolite HL20,    !- Name
+    1.83,                     !- Gross Area
+    Water,                    !- Test Fluid
+    0.0,                      !- Test Flow Rate
+    Inlet,                    !- Test Correlation Type
+    0.6,                      !- Coefficient 1 of Efficiency Equation
+    15,                       !- Coefficient 2 of Efficiency Equation
+    0,                        !- Coefficient 3 of Efficiency Equation
+    0.2,                      !- Coefficient 2 of Incident Angle Modifier
+    0;                        !- Coefficient 3 of Incident Angle Modifier
+
+SOLARCOLLECTORPERFORMANCE:FLATPLATE,
+    Vaillant Solar Systems Inc. Vaillant Solar Systems VFK 150 H,    !- Name
+    2.51,                     !- Gross Area
+    Water,                    !- Test Fluid
+    5.3e-05,                  !- Test Flow Rate
+    Inlet,                    !- Test Correlation Type
+    0.775,                    !- Coefficient 1 of Efficiency Equation
+    2.43,                     !- Coefficient 2 of Efficiency Equation
+    0,                        !- Coefficient 3 of Efficiency Equation
+    0.09,                     !- Coefficient 2 of Incident Angle Modifier
+    0;                        !- Coefficient 3 of Incident Angle Modifier
+
+SOLARCOLLECTORPERFORMANCE:FLATPLATE,
+    Vaillant Solar Systems Inc. Vaillant Solar Systems VFK 150 V,    !- Name
+    2.51,                     !- Gross Area
+    Water,                    !- Test Fluid
+    5.2e-05,                  !- Test Flow Rate
+    Inlet,                    !- Test Correlation Type
+    0.758,                    !- Coefficient 1 of Efficiency Equation
+    4.68,                     !- Coefficient 2 of Efficiency Equation
+    0,                        !- Coefficient 3 of Efficiency Equation
+    0.14,                     !- Coefficient 2 of Incident Angle Modifier
+    0;                        !- Coefficient 3 of Incident Angle Modifier
+
+SOLARCOLLECTORPERFORMANCE:FLATPLATE,
+    Vaillant Solar Systems Inc. Vaillant Solar Systems VFK 140 D,    !- Name
+    2.51,                     !- Gross Area
+    Water,                    !- Test Fluid
+    3.5e-05,                  !- Test Flow Rate
+    Inlet,                    !- Test Correlation Type
+    0.737,                    !- Coefficient 1 of Efficiency Equation
+    3.15,                     !- Coefficient 2 of Efficiency Equation
+    0,                        !- Coefficient 3 of Efficiency Equation
+    -0.01,                    !- Coefficient 2 of Incident Angle Modifier
+    0;                        !- Coefficient 3 of Incident Angle Modifier
+
+SOLARCOLLECTORPERFORMANCE:FLATPLATE,
+    Vaillant Solar Systems Inc. AuroTHERM Classic VFK 990 1,    !- Name
+    2.22,                     !- Gross Area
+    Water,                    !- Test Fluid
+    5.6e-05,                  !- Test Flow Rate
+    Inlet,                    !- Test Correlation Type
+    0.71,                     !- Coefficient 1 of Efficiency Equation
+    3.59,                     !- Coefficient 2 of Efficiency Equation
+    0,                        !- Coefficient 3 of Efficiency Equation
+    0.18,                     !- Coefficient 2 of Incident Angle Modifier
+    0;                        !- Coefficient 3 of Incident Angle Modifier
+
+SOLARCOLLECTORPERFORMANCE:FLATPLATE,
+    Vaillant Solar Systems Inc. Vaillant Solar Systems VFK 125,    !- Name
+    2.51,                     !- Gross Area
+    Water,                    !- Test Fluid
+    5.2e-05,                  !- Test Flow Rate
+    Inlet,                    !- Test Correlation Type
+    0.684,                    !- Coefficient 1 of Efficiency Equation
+    4.52,                     !- Coefficient 2 of Efficiency Equation
+    0,                        !- Coefficient 3 of Efficiency Equation
+    0.13,                     !- Coefficient 2 of Incident Angle Modifier
+    0;                        !- Coefficient 3 of Incident Angle Modifier
+
+SOLARCOLLECTORPERFORMANCE:FLATPLATE,
+    VELUX America Inc. VELUX CLI U12 4000,    !- Name
+    2.51,                     !- Gross Area
+    Water,                    !- Test Fluid
+    4.95e-05,                 !- Test Flow Rate
+    Inlet,                    !- Test Correlation Type
+    0.686,                    !- Coefficient 1 of Efficiency Equation
+    2.69,                     !- Coefficient 2 of Efficiency Equation
+    0,                        !- Coefficient 3 of Efficiency Equation
+    0.02,                     !- Coefficient 2 of Incident Angle Modifier
+    0;                        !- Coefficient 3 of Incident Angle Modifier
+
+SOLARCOLLECTORPERFORMANCE:FLATPLATE,
+    VELUX America Inc. VELUX CLI S06 4000,    !- Name
+    1.42,                     !- Gross Area
+    Water,                    !- Test Fluid
+    4.95e-05,                 !- Test Flow Rate
+    Inlet,                    !- Test Correlation Type
+    0.651,                    !- Coefficient 1 of Efficiency Equation
+    2.65,                     !- Coefficient 2 of Efficiency Equation
+    0,                        !- Coefficient 3 of Efficiency Equation
+    0.02,                     !- Coefficient 2 of Incident Angle Modifier
+    0;                        !- Coefficient 3 of Incident Angle Modifier
+
+SOLARCOLLECTORPERFORMANCE:FLATPLATE,
+    VELUX America Inc. VELUX CLI M08 4000,    !- Name
+    1.16,                     !- Gross Area
+    Water,                    !- Test Fluid
+    4.95e-05,                 !- Test Flow Rate
+    Inlet,                    !- Test Correlation Type
+    0.63,                     !- Coefficient 1 of Efficiency Equation
+    2.61,                     !- Coefficient 2 of Efficiency Equation
+    0,                        !- Coefficient 3 of Efficiency Equation
+    0.02,                     !- Coefficient 2 of Incident Angle Modifier
+    0;                        !- Coefficient 3 of Incident Angle Modifier
+
+SOLARCOLLECTORPERFORMANCE:FLATPLATE,
+    Viessmann Manufacturing Company (US) Inc. Vitosol 100-F  SV1 SH1,    !- Name
+    2.49,                     !- Gross Area
+    Water,                    !- Test Fluid
+    5e-05,                    !- Test Flow Rate
+    Inlet,                    !- Test Correlation Type
+    0.769,                    !- Coefficient 1 of Efficiency Equation
+    3.61,                     !- Coefficient 2 of Efficiency Equation
+    0,                        !- Coefficient 3 of Efficiency Equation
+    0.1,                      !- Coefficient 2 of Incident Angle Modifier
+    0;                        !- Coefficient 3 of Incident Angle Modifier
+
+SOLARCOLLECTORPERFORMANCE:FLATPLATE,
+    Viessmann Manufacturing Company (US) Inc. Vitosol 200-F  SV2 SH2,    !- Name
+    2.52,                     !- Gross Area
+    Water,                    !- Test Fluid
+    4.98e-05,                 !- Test Flow Rate
+    Inlet,                    !- Test Correlation Type
+    0.716,                    !- Coefficient 1 of Efficiency Equation
+    3.06,                     !- Coefficient 2 of Efficiency Equation
+    0,                        !- Coefficient 3 of Efficiency Equation
+    0.07,                     !- Coefficient 2 of Incident Angle Modifier
+    0;                        !- Coefficient 3 of Incident Angle Modifier
+
+SOLARCOLLECTORPERFORMANCE:FLATPLATE,
+    Wagner Solar Inc. Wagner EURO C20 AR-M,    !- Name
+    2.61,                     !- Gross Area
+    Water,                    !- Test Fluid
+    3.333e-05,                !- Test Flow Rate
+    Inlet,                    !- Test Correlation Type
+    0.741,                    !- Coefficient 1 of Efficiency Equation
+    3.02,                     !- Coefficient 2 of Efficiency Equation
+    0,                        !- Coefficient 3 of Efficiency Equation
+    0.11,                     !- Coefficient 2 of Incident Angle Modifier
+    0;                        !- Coefficient 3 of Incident Angle Modifier
+
+SOLARCOLLECTORPERFORMANCE:FLATPLATE,
+    WePOWER  LLC Swan WE-40BP,    !- Name
+    3.8,                      !- Gross Area
+    Water,                    !- Test Fluid
+    7.6e-05,                  !- Test Flow Rate
+    Inlet,                    !- Test Correlation Type
+    0.718,                    !- Coefficient 1 of Efficiency Equation
+    2.29,                     !- Coefficient 2 of Efficiency Equation
+    0,                        !- Coefficient 3 of Efficiency Equation
+    0.32,                     !- Coefficient 2 of Incident Angle Modifier
+    0;                        !- Coefficient 3 of Incident Angle Modifier
